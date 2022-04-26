@@ -1,0 +1,22 @@
+---
+label: case-studies-page
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: file
+  name: logo
+  label: logo
+- type: text
+  name: year
+  label: year
+- type: text
+  name: location
+  label: location
+- type: text
+  name: company_size
+  label: company_size
