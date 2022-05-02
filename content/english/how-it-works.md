@@ -17,12 +17,12 @@ how_it_works:
   enable: true
   block:
   - subtitle: "Who are we?"
-    title: "Nice to meet you!"
+    title: "Nice to meet you! &#128075;"
     description: "We are Pets to Home, a company dedicated to the international transport of pets to and from Costa Rica, we provide all the necessary services to make your pet's trip pleasant, safe and stress-free."
     image: "images/good_doggy.png"
 
   - subtitle: "What we do"
-    title: "We can lend you a helping paw!"
+    title: "We can lend you a helping paw! &#128062;"
     description: "Our staff consists, on the one hand, of logistics experts trained in the international standards of air transport of pets, and on the other, of veterinary doctors dedicated to their profession. This blend allows us to offer the quality service your pet deserves."
     image: "images/day67-dog.png"
 

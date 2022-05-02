@@ -2,8 +2,8 @@
 # banner
 banner:
   title: "Hi! Welcome to Pets to Home"
-  button: "Get to know us"
-  button_link: "#!"
+  button: "Get a quote"
+  button_link: "/get-a-quote"
   image: "images/travel_dog.jpeg"
 
 
@@ -55,7 +55,7 @@ features:
 
 # intro_video
 intro_video:   
-  enable: true
+  enable: false
   subtitle: "Short Intro Video"
   title: "Built exclusively for you"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
