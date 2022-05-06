@@ -1,10 +1,10 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "images/pth.png"
 # logo
 logo = "images/logo.webp"
 # use `x` with logo_width, example: "100x"
-logo_width = "140x"
+logo_width = "90x"
 # logo text will only show when logo is missing.
 logo_text = "Pets to Home"
 # image gallery shortcode
