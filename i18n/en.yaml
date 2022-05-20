@@ -138,3 +138,15 @@
 
 - id: email_placeholder
   translation: snoopy@example.com
+
+- id: length
+  translation: length
+  
+- id: length_placeholder
+  translation: from nose to the beginning of the tail
+
+- id: height
+  translation: Height
+
+- id: height_placeholder
+  translation: From the floor to your pet's highest point  
