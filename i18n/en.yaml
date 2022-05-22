@@ -125,7 +125,7 @@
   translation: Age
 
 - id: age_placeholder
-  translation: Your page age
+  translation: Your pet age
 
 - id: breed
   translation: Breed
@@ -140,13 +140,10 @@
   translation: snoopy@example.com
 
 - id: length
-  translation: length
+  translation: Length - from nose to the beginning of the tail
   
-- id: length_placeholder
-  translation: from nose to the beginning of the tail
-
 - id: height
-  translation: Height
+  translation: Height - from the floor to your pet's highest point
 
-- id: height_placeholder
-  translation: From the floor to your pet's highest point  
+- id: lang_to_translate
+  translation: en  

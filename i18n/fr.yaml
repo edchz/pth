@@ -108,3 +108,42 @@
   
 - id: year
   translation: An
+
+- id: get_a_quote
+  translation: Tres pasos para despegar 
+
+- id: pets_name
+  translation: Nombre de tu mascota
+
+- id: species
+  translation: Especie
+
+- id: species_placeholder
+  translation: Perro, gato?
+
+- id: age
+  translation: Edad
+
+- id: age_placeholder
+  translation: Edad de tu perro
+
+- id: breed
+  translation: Raza
+
+- id: breed_placeholder
+  translation: Huskey Siberiano?, Siamés?
+
+- id: weight
+  translation: Peso
+
+- id: email_placeholder
+  translation: snoopy@example.com
+
+- id: length
+  translation: Largo - desde la nariz hasta el principio de la cola
+  
+- id: height
+  translation: Altura - desde el suelo hasta el punto más alto de tu mascota
+
+- id: lang_to_translate
+  translation: es  
