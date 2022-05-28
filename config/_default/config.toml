@@ -11,7 +11,7 @@ googleAnalytics = "" # example: UA-123-45, for more info, read the article https
 # disqus short name
 disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 # disable language
-disableLanguages = [] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
+disableLanguages = ["fr"] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 
 ############################# Modules ##############################
 [module]

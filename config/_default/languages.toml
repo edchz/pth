@@ -14,6 +14,15 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
+weight = 3
+# copyright
+copyright = "Conçu Par [Themefisher](https://themefisher.com/) & Développé Par [Gethugothemes](https://gethugothemes.com/)"
+
+################################### Spanish language #####################################
+[es]
+languageName = "Es"
+languageCode = "es-CR"
+contentDir = "content/spanish"
 weight = 2
 # copyright
 copyright = "Conçu Par [Themefisher](https://themefisher.com/) & Développé Par [Gethugothemes](https://gethugothemes.com/)"

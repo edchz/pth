@@ -11,7 +11,7 @@ logo_text = "Pets to Home"
 image_gallery = true
 
 # footer information
-footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+footer_info = "2019, Alajuela, Costa Rica"
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
@@ -27,9 +27,9 @@ mainSections= ["blog"]
 
 # contact information
 [contact_info]
-address = "2118 Thornridge Cir. Syracuse, Connecticut 35624"
-phone = ["+704-555-0127", "+205-857-2321", "+002-569-6969"]
-email = ["info@andromeda.io", "smith@anderson.io", "john@anderson.io"]
+address = "Local #65 Mall Outlet Internacional"
+phone = ["(506) 8859 8455", "(506) 6065 9239", "(506) 4082 3331"]
+email = ["info@petstohomecr.com"]
 
 # imaging processing
 [imaging]
@@ -43,13 +43,13 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "Sign Up Now"
 link = "signup/"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Pets to home", "Pet", "International relocation"]
+keywords = ["pets to home", "pet", "international relocation", "pet movers", "mascota", "transporte internacional de mascotas", "worldwide pet relocation", "pets", "mascotas"]
 description = "Pets to Home - worldwide pet relocation"
 author = "PTH"
 image = "images/og-image.jpg" # this image will be used as fallback if a page has no image of its own
@@ -95,7 +95,7 @@ enable = true
 title = "Helping teams in the world with focus"
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
 button = "Download The Theme"
-button_link = "/"
+button_link = "/get-a-quote"
 
 ############################# social site ########################
 [[social]]
