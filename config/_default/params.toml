@@ -99,21 +99,11 @@ button_link = "/get-a-quote"
 
 ############################# social site ########################
 [[social]]
-title = "Pets to Home"
+title = "PTH Facebook"
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-link = "#!"
+link = "https://es-la.facebook.com/petstohomecr/"
 
 [[social]]
-title = "PTHTweet"
-icon = "lab la-twitter" # https://icons8.com/line-awesome
-link = "#!"
-
-[[social]]
-title = "PTHIn"
-icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-link = "#!"
-
-[[social]]
-title = "PTHPin"
-icon = "lab la-pinterest" # https://icons8.com/line-awesome
-link = "#!"
+title = "PTH Instagram"
+icon = "lab la-instagram" # https://icons8.com/line-awesome
+link = "https://www.instagram.com/petstohomecr/"

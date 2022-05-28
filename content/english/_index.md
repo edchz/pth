@@ -86,7 +86,7 @@ testimonials:
     image: "images/user-img/AyleenR.webp"
 
   - quote: "These people’s heart is in the right place. So eager to accommodate, so willing to go the extra mile to get the job done right. We love them, and feel our Zaguates are safe and pampered in their hands."
-    name: "DLya Battle"
+    name: "Lya Battle"
     designation: ""
     image: "images/user-img/LyaB.webp"
 
@@ -100,14 +100,14 @@ testimonials:
     designation: ""
     image: "images/user-img/LisaNorman.webp"
 
-  - quote: "Lorem ipsum dolor ame conseetur. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/09-i.jpg"
+  - quote: "Traje mis dos gatas desde Costa Rica hasta Seattle, Washington con Pets to Home. Las gatas llegaron bien sin ningún problema, la verdad no podría agradecerles más por toda la ayuda y buen trabajo para reunirnos a mi esposa y a mi de nuevo con nuestras mascotas! 100% recomendado!"
+    name: "Justin Murray"
+    designation: ""
+    image: "images/user-img/JustinM.webp"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/10-i.jpg"
+  - quote: "Son un éxito. No tenía idea de como sacar a mi gordi del país y ellos amablemente coordinaron e hicieron los trámites correspondientes. El servicio al cliente es excelente y definitivamente los recomiendo. Muchas gracias Pets to Home."
+    name: "Mariela Vargas"
+    designation: ""
+    image: "images/user-img/mariela-vargas.webp"
 
 ---
