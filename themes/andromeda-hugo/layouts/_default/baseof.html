@@ -46,6 +46,11 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ end }}
 
 <script src="https://kwesforms.com/v2/kwes-script.js" defer></script>
+   <!-- Whatssapp button -->
+   <a class="wabutton" style="position: fixed; bottom: 100px; left: 20;" href="https://www.w3schools.com">
+	{{ $image := resources.Get "/images/whatsapp.png" }}
+	<img src="{{ $image.RelPermalink }}" alt="" class="w-96">
+  </a>
 </body>
 
 </html>
