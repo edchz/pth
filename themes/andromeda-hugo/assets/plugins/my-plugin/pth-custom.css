@@ -3,7 +3,7 @@
     bottom: 0;
     right: 20;
     background-color: rgba(95, 243, 21, 0.884);
-    opacity: 80%;
+    opacity: 90%;
     border-radius: 25px;
     width: 60%;
     height: 40px;
@@ -11,6 +11,6 @@
         }
 
 #whatsapp-button {
-    margin-bottom:10px;
+    margin-bottom:15px;
     margin-left: 10px;    
 }
