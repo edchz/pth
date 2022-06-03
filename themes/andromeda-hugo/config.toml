@@ -50,6 +50,8 @@ link = "plugins/line-awesome/css/line-awesome.min.css"
 link = "plugins/swiper/swiper-bundle.min.css"
 [[params.plugins.css]]
 link = "plugins/aos/aos.css"
+[[params.plugins.css]]
+link = "plugins/my-plugin/pth-custom.css"
 
 # JS Plugins
 [[params.plugins.js]]
