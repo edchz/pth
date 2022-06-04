@@ -3,15 +3,11 @@
     bottom: 0;
     right: 20;
     background-color: rgba(95, 243, 21, 0.884);
-    text-align: center;
     opacity: 90%;
     border-radius: 25px;
     width: 40%;
-    line-height: normal;
     color: white;
-        }
+    display:flex;
+    align-items: center;
+            }
 
-#whatsapp-button {
-    margin-bottom:15px;
-    margin-left: 10px;    
-}
