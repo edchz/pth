@@ -145,9 +145,37 @@
       </div>
     </div>
   </div>
+
   <!-- Whatssapp button start here-->
-  <a id="whatsapp-link" href="https://www.w3schools.com">
+  <a id="whatsapp-link" href="#modal">
     <i class="lab la-whatsapp" style="font-size:32px";></i> Contáctanos 
   </a>
+
+  <div id="modal" class="modal">
+    <div class="modal-content">
+        <span class="close-button">×</span>
+        <h1>Tuanis, Javier!</h1>
+    </div>
+  </div>
+
+<script>
+const modal = document.querySelector(".modal");
+const trigger = document.querySelector("#whatsapp-link");
+const closeButton = document.querySelector(".close-button");
+
+function toggleModal() {
+    modal.classList.toggle("show-modal");
+}
+
+function windowOnClick(event) {
+    if (event.target === modal) {
+        toggleModal();
+    }
+}
+
+trigger.addEventListener("click", toggleModal);
+closeButton.addEventListener("click", toggleModal);
+window.addEventListener("click", windowOnClick);
+</script>
   <!-- Whatssapp button end here-->
  </div>
