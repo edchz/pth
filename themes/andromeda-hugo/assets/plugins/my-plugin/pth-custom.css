@@ -47,6 +47,10 @@
     display:flex;
     align-items: center;
     justify-content: center;
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    background-image:  linear-gradient(#a3d8eb 1px, transparent 1px), linear-gradient(to right, #a3d8eb 1px, #e5e5f7 1px);
+    background-size: 20px 20px;
             }
             
 .close-button {
@@ -74,3 +78,13 @@
     border-radius: 20%;
     margin-bottom: 20px;
 }
+
+#w-link  {
+    background-color: rgba(95, 243, 21, 0.884);
+    border-radius: 25px;
+    width: 70%;
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+            }
