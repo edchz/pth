@@ -1,7 +1,7 @@
 #whatsapp-link  {
     position: fixed;
-    bottom: 20px;
-    right: 20;
+    bottom: 15px;
+    left: 10px;
     background-color: rgba(95, 243, 21, 0.884);
     opacity: 90%;
     border-radius: 25px;
