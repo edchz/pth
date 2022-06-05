@@ -1,6 +1,6 @@
 #whatsapp-link  {
     position: fixed;
-    bottom: 0;
+    bottom: 20;
     right: 20;
     background-color: rgba(95, 243, 21, 0.884);
     opacity: 90%;
@@ -47,10 +47,7 @@
     display:flex;
     align-items: center;
     justify-content: center;
-    background-color: #e5e5f7;
-    background-image:  linear-gradient(#a3d8eb 1px, transparent 1px), linear-gradient(to right, #a3d8eb 1px, #e5e5f7 1px);
-    background-size: 20px 20px;
-            }
+                 }
             
 .close-button {
     float: right;
@@ -76,7 +73,7 @@
 .cs-image {
     border-radius: 20%;
     margin-bottom: 20px;
-}
+    }
 
 #w-link  {
     background-color: rgba(95, 243, 21, 0.884);
@@ -87,3 +84,8 @@
     align-items: center;
     justify-content: center;
             }
+
+.cs-link {
+    color: #0000FF !important;
+    text-decoration: underline;
+    }
