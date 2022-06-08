@@ -4,7 +4,7 @@ banner:
   title: "Hi! Welcome to Pets to Home"
   button: "Get a quote"
   button_link: "/get-a-quote"
-  image: "images/travel_dog.jpeg"
+  image: "images/fido-viajero-2.webp"
 
 
 # brands
