@@ -220,4 +220,7 @@
   translation: Get a pet and keep it around... let's meet again
 
 - id: lang_to_translate
-  translation: en  
+  translation: en
+
+- id: wapp_contact_quote
+  translation: Contact us    

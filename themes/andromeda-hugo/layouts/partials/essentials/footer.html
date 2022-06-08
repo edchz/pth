@@ -148,7 +148,7 @@
 
   <!-- Whatssapp button start here-->
   <a id="whatsapp-link" class="animate__animated animate__bounceIn animate__delay-3s" href="#modal">
-    <i class="lab la-whatsapp" style="font-size:32px";></i> Contáctanos 
+    <i class="lab la-whatsapp" style="font-size:32px";></i> {{i18n `wapp_contact_quote`}} 
   </a>
 
   <div id="modal" class="modal">
@@ -157,8 +157,8 @@
         {{ $javier := resources.Get "/images/javier.png" }}
         <a href="https://wa.me/50688598455" class="cs-link"><img src="{{ $javier.RelPermalink }}" class="cs-image" alt="dibujo de javier">Javier - Servicio al cliente</a>
         {{ $jose := resources.Get "/images/jose.png" }}
-        <a href="https://wa.me/50683840491"><img src="{{ $jose.RelPermalink }}" class="cs-image" alt="dibujo de jose">José - Customer service</a>
-        <a href="/get-a-quote" id="w-link">Solicite su cotización</a>
+        <a href="https://wa.me/50662944788" class="cs-link"><img src="{{ $jose.RelPermalink }}" class="cs-image" alt="dibujo de jose">José - Customer service</a>
+        <a href="/get-a-quote" id="w-link">{{i18n `CTA_button`}}</a>
     </div>
   </div>
 
