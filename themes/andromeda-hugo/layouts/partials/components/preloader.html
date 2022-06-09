@@ -28,7 +28,7 @@
   {{ .Scratch.Set "preloader" $preloader.RelPermalink }}
   {{ end }}
 
-  <img class="img-fluid la-spin" loading="preload" decoding="async" src="{{.Scratch.Get `preloader`}}" aria-label="preloader" title="preloader"
+  <img class="img-fluid" loading="preload" decoding="async" src="{{.Scratch.Get `preloader`}}" aria-label="preloader" title="preloader"
     onerror="this.onerror=null;this.src='{{.Scratch.Get `preloader_fallback`}}'" alt="preloader">
   {{ end }}
   {{ end }}

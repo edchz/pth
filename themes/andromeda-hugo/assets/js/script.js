@@ -32,6 +32,7 @@ $(window).on('load', function () {
 	},50);
 });
 
+
 // header sticky
 $(window).scroll(function () {
 	if ($(window).scrollTop() >= 50) {
