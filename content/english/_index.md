@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Hi! Welcome to Pets to Home"
+  title: "Pets to Home <br>Worldwide pet relocation"
   button: "Get a quote"
   button_link: "/get-a-quote"
   image: "images/fido-viajero-2.webp"
