@@ -97,3 +97,7 @@
     border: 1px solid #585A57 !important; 
     background: white !important;
 }
+
+.rounded-field:focus {
+    box-shadow: 0 0 2px 2px #1032f3 !important;  
+}
