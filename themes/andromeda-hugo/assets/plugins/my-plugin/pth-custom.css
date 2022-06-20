@@ -90,3 +90,10 @@
     color: #0000FF !important;
     text-decoration: underline;
     }
+
+.rounded-field {
+    border-radius:10px;
+    box-shadow: 0 0 4px 4px #AFEAF9 !important; 
+    border: 1px solid #585A57 !important; 
+    background: white !important;
+}
