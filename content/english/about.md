@@ -8,7 +8,7 @@ who_we_are:
   enable: true
   subtitle: "Who We Are"
   title: "We're like you"
-  description: "Life is better with pets, and we know for sure because like you, we enjoy every moment with them and can understand your worry for your loved one well being. After years of working for commercial airlines we quit our job to pursue our passion, we have the know-how and will do the necessary to guarantee a stress-free experience, even, as the picture attests the hard office work!  &#128521;"
+  description: "Life is better with pets, and we know for sure because like you, we enjoy every moment with them and can understand your worry for your loved one well being. After years of working for commercial airlines we quit our job to pursue our passion, we have the know-how and will do the necessary to guarantee a stress-free experience, even, as you can see, the hard office work!  &#128521;"
 
   image: "images/about/01.jpg"
 

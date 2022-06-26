@@ -49,7 +49,7 @@ link = "signup/"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["pets to home", "pet", "international relocation", "pet movers", "mascota", "transporte internacional de mascotas", "worldwide pet relocation", "pets", "mascotas"]
+keywords = ["pets to home", "pet", "international pet relocation", "pet movers", "mascota", "transporte internacional de mascotas", "worldwide pet relocation", "pets", "mascotas"]
 description = "Pets to Home - worldwide pet relocation"
 author = "PTH"
 image = "images/og-image.jpg" # this image will be used as fallback if a page has no image of its own
