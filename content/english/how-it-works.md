@@ -8,7 +8,7 @@ how_it_works_video:
   subtitle: "Our Features"
   title: "How it works"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+  video_url: "https://www.youtube.com/embed/CH6GsFl2CPI"
   video_thumbnail: "images/video-popup.jpg"
 
 
