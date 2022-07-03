@@ -35,6 +35,6 @@ servicies:
   - subtitle: "What we value 3" 
     title: "Pets Hotel &#128062;"
     description: "If you need it, Pets to home will take care of your pet before the trip or when arriving in the country, offering a broad and safe lodging service that carefully meets your faithful companion's needs."
-    image: "images/Pets-hotel.png"
+    image: "images/pth-hotel.png"
 
 ---
