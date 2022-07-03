@@ -1,0 +1,36 @@
+{{define "main"}}
+
+{{ partial "components/page-header.html" . }}
+
+{{with .Params.servicies}}
+{{if .enable}}
+<section class="section-sm">
+  <div class="container">
+    {{ $.Scratch.Set "counter" 0 }}
+    {{range .block}}
+    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+    {{$n := $.Scratch.Get "counter"}}
+    <div class="row justify-content-center align-items-center mb-4">
+      <div class="col-lg-5 {{if (modBool $n 2)}} order-md-1 {{end}}" data-aos="fade-up">
+        <div class="section-title mb-0">
+          <h2 class="title text-break text-primary">{{.title | markdownify}}</h2>
+          <p class="text-justify">{{.description | markdownify}}</p>
+        </div>
+      </div>
+      <div class="col-lg-6 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
+        <div class="pl-0 pl-lg-3">
+          {{ if fileExists (add `assets/` .image) }}
+          {{$img:= resources.Get .image }}
+          {{$img:= $img.Resize "575x"}}
+          <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          {{end}}
+        </div>
+      </div>
+    </div>
+    {{end}}
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{end}}
