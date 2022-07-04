@@ -121,10 +121,3 @@
     background-color:#097add;
     }
     
-@media all and (max-width:30em){
-    
-    .kw-fieldgroup-button{
-    display:block;
-    margin:0.2em auto;
-    }
-}
