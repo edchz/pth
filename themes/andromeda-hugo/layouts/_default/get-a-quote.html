@@ -19,10 +19,10 @@
           <div class="mb-4">
             <h3>{{i18n `get_a_quote`}}</h3>
           </div>
-          <form id="get-a-quote-form" class="kwes-form" action="https://kwesforms.com/api/foreign/forms/ko0cgu3EDpVrAo3n4ANw" method="POST" multistep="true" lang="{{i18n `lang_to_translate`}}">
+          <form id="get-a-quote-form" class="kwes-form" action="https://kwesforms.com/api/foreign/forms/ko0cgu3EDpVrAo3n4ANw" method="POST" multistep="true" lang="{{i18n `lang_to_translate`}}" kw-cloak>
             <div class="kw-multistep">
               <p id="form-status" class="form-status"></p>
-                <div class="kw-multistep-step" form-step-heading="Your pet's info &#128062;">
+                <div class="kw-multistep-step" form-step-heading="Step 1 - Your pet's info">
                 <div class="kw-multistep-body">
                   <fieldset repeater name="pets_info" repeater-limit="3">
                     <div repeater-group>
@@ -66,7 +66,7 @@
                   </fieldset>
                 </div>
                 </div>
-                <div class="kw-multistep-step" form-step-heading="Your crate's info &#128062;">
+                <div class="kw-multistep-step" form-step-heading="Step 2 - Your crate's info">
                   <div class="kw-multistep-body">
                     <div class="form-group">
                       <label for="crate">{{i18n `crate`}}</label>
@@ -93,7 +93,7 @@
                     </div>
                   </div>
                 </div>
-              <div class="kw-multistep-step" form-step-heading="Departure and destination &#128062;">
+              <div class="kw-multistep-step" form-step-heading="Step 3 - Departure and destination">
                 <div class="kw-multistep-body">
                    <div class="form-group">
                     <label for="Departure_country">{{i18n `Departure_country`}}</label>
@@ -118,7 +118,7 @@
                 </div>                     
               </div>
               </div>
-                <div class="kw-multistep-step" form-step-heading="Your info &#128105;&#127995; &#129492;&#127995;">
+                <div class="kw-multistep-step" form-step-heading="Step 4 - Your info">
                   <div class="kw-multistep-body">
                         <div class="form-group">
                           <label for="Your_name">{{i18n `Your_name`}}</label>

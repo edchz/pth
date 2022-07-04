@@ -120,4 +120,8 @@
 .kw-fieldgroup-button:hover{
     background-color:#097add;
     }
+
+[kw-cloak] {
+    display: none;
+}
     
