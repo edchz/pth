@@ -1,24 +1,17 @@
-@media (max-width:600px){
-    #whatsapp-link  {
-        position: fixed;
-        bottom: 15px;
-        left: 10px;
-        background-color: rgba(95, 243, 21, 0.884);
-        opacity: 90%;
-        border-radius: 25px;
-        width: 40%;
-        color: white;
-        display:flex;
-        align-items: center;
-        justify-content: center;
-        z-index: 400000000;
-                }
-            }
-
-#whatsapp-link {
-    display: none;
+ #whatsapp-link  {
+    position: fixed;
+    bottom: 15px;
+    left: 10px;
+    background-color: rgba(95, 243, 21, 0.884);
+    opacity: 90%;
+    border-radius: 25px;
+    width: 40%;
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 400000000;
         }
-
 
 #modal  {
     position: fixed;
