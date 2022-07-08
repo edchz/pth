@@ -160,6 +160,18 @@
 - id: units_intention
   translation: I will use the following
 
+- id: step_1
+  translation: STEP 1 - Your pet's info
+
+- id: step_2
+  translation: STEP 2 - Your crate's info
+
+- id: step_3
+  translation: STEP 3 - Departure and destination
+
+- id: step_4
+  translation: STEP 4 - Your info
+
 - id: email_placeholder
   translation: snoopy@example.com
 
