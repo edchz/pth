@@ -68,13 +68,12 @@
                   <div class="kw-multistep-body">
                       <div class="form-group">
                       <label for="crate">{{i18n `crate`}}</label>
-                      <input class="form-control shadow-none rounded-field" id="crate" name="crate" type="text" placeholder="{{i18n `crate_placeholder`}}" list="crate_list" required>
-                      <datalist id="crate_list">
-                        <option value="{{i18n `affirmative`}}"></option>
-                        <option value="No."></option>
-                      </datalist>
+                      <select name="pet_crate" id="crate_list">
+                        <option value="{{i18n `affirmative`}}">{{i18n `affirmative`}}</option>
+                        <option value="No.">No.</option>
+                      </select>
                     </div>
-                    <div kw-show="fields.crate === 'Yes.'">
+                    <div kw-show="fields.pet_crate === 'Yes.'">
                       <p class="text-info">{{i18n `remember_msg`}}: <span answer-piped>fields.pets_measurement</span></p>
                       <div class="form-group">
                         <label for="crate_length">{{i18n `crate_lenght`}}</label>
