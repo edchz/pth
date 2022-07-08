@@ -155,7 +155,7 @@
   translation: kilograms, centimeters and months
 
 - id: remember_msg
-  translation: Remember you said you will use
+  translation: Remember to use
 
 - id: email_placeholder
   translation: snoopy@example.com
