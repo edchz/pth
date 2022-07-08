@@ -137,16 +137,25 @@
   translation: Weight
 
 - id: pets_measurement_unit
-  translation: Measurement units
+  translation: Units of time and measurement
 
 - id: pets_measurement_unit_placeholder
-  translation: Choose measurement units
+  translation: For your pet's info
 
-- id: measurement_system_usa
-  translation: pounds and inches
+- id: measurement_system_usa_years
+  translation: pounds, inches and years
 
-- id: measurement_system_intl
-  translation: kilograms and centimeters
+- id: measurement_system_usa_months
+  translation: pounds, inches and months
+
+- id: measurement_system_intl_years
+  translation: kilograms, centimeters and years
+
+- id: measurement_system_intl_months
+  translation: kilograms, centimeters and months
+
+- id: remember_msg
+  translation: Remember you said you will use
 
 - id: email_placeholder
   translation: snoopy@example.com
