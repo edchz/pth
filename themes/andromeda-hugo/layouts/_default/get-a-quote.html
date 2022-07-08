@@ -22,8 +22,9 @@
                 <div class="kw-multistep-step text-primary bg-info" form-step-heading="Step 1 - Your pet's info</span>">
                 <div class="kw-multistep-body">
                   <div class="form-group">
+                    <span style="color: #5D6D7E; font-weight:600">{{i18n `units_intention`}}</span></br>
                     <label for="pets_measurement">{{i18n `pets_measurement_unit`}}</label>
-                    <select name="pets_measurement" id="pets_measurement_unit">
+                    <select class="shadow-none rounded-field" name="pets_measurement" id="pets_measurement_unit">
                       <option value="{{i18n `measurement_system_usa_years`}}">{{i18n `measurement_system_usa_years`}}</option>
                       <option value="{{i18n `measurement_system_usa_months`}}">{{i18n `measurement_system_usa_months`}}</option>
                       <option value="{{i18n `measurement_system_intl_years`}}">{{i18n `measurement_system_intl_years`}}</option>
@@ -68,7 +69,7 @@
                   <div class="kw-multistep-body">
                       <div class="form-group">
                       <label for="crate">{{i18n `crate`}}</label>
-                      <select name="pet_crate" id="crate_list">
+                      <select class="shadow-none rounded-field" name="pet_crate" id="crate_list">
                         <option value="{{i18n `affirmative`}}">{{i18n `affirmative`}}</option>
                         <option value="No.">No.</option>
                       </select>

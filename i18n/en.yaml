@@ -137,7 +137,7 @@
   translation: Weight
 
 - id: pets_measurement_unit
-  translation: Units of time and measurement
+  translation: Units of measurement and time
 
 - id: pets_measurement_unit_placeholder
   translation: For your pet's info
@@ -155,7 +155,10 @@
   translation: kilograms, centimeters and months
 
 - id: remember_msg
-  translation: Remember to use
+  translation: Remember you're using
+
+- id: units_intention
+  translation: I will use the following
 
 - id: email_placeholder
   translation: snoopy@example.com
