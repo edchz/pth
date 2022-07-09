@@ -1,10 +1,10 @@
 ---
 # banner
 banner:
-  title: "Hi! Welcome to Pets to Home"
-  button: "Get a quote"
+  title: "Pets to Home <br>Transporte internacional de mascotas"
+  button: "Solicite una cotización"
   button_link: "/get-a-quote"
-  image: "images/travel_dog.jpeg"
+  image: "images/fido-viajero-2.webp"
 
 
 # brands
@@ -29,28 +29,28 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Pet moving made easy!"
-  title: "Our<br>Services"
-  description: "We'll do what it takes to be together again. We promise!"
+  subtitle: "Transporte internacional de máscotas, fácil!"
+  title: "Nuestros<br>Servicios"
+  description: "Haremos lo que sea para estar juntos otra vez. Es una promesa!"
   features_blocks:
   - icon: "las la-globe-americas"
-    title: "Export"
-    content: "No matter what your pet's destination is, we'll make sure it arrives safely and comfortably. We carry out veterinary and customs procedures and coordinate with the selected airline."
+    title: "Exportación"
+    content: "No importa el destino de tu mascota, nos aseguramos que llegue segura y comfortable. Nos encargamos de los procedimientos veterinarios y de aduanas y coordinamos con la aerolínea seleccionada."
   - icon: "las la-plane-departure"
-    title: "Import"
-    content: "We do the whole process of releasing your pet from customs, permits, taxes and formalities. We go the extra mile to ensure a stress free experience"
+    title: "Importación"
+    content: "Realizamos todo el proceso aduanero de tu mascota: permisos, impuestos y formalidades. Nos esforzamos para garantizarte una experiencia libre de estrés."
   - icon: "las la-truck"
-    title: "Pickup and delivery"
-    content: "We pick them up at your home to deliver them to the airline. After the pet has reached its destination, once the import procedure is done, we take them home."
+    title: "Recogida y entrega"
+    content: "Recogemos a tu mascota en tu casa para entregarla a la aerolínea. Cuando llegue a su destino, una vez realizado el procedimiento de importación la entregaremos en su nuevo hogar."
   - icon: "las la-stethoscope"
-    title: "Veterinary services"
-    content: "We provide all the veterinary services required by the country of destination: microchips, deparasitations and vaccinations, blood tests, veterinary health certificates."
+    title: "Servicios veterinarios"
+    content: "We provide all the veterinary services required by the country of destination: microchips, deworming and vaccinations, blood tests, and veterinary certificates."
   - icon: "las la-lock"
-    title: "Sales of kennels and accesories"
-    content: "We provide IATA approved kennels of all sizes as well as travel accessories such as food plates and water bottles. We care for your pet's comfort"
+    title: "Venta de jaulas y accesorios"
+    content: "Ofrecemos jaulas de todos los tamaños y accesorios de viaje como platos y botellas para agua. Nuestras jaulas cumplen completamente con las regulaciones de las aerolíneas."
   - icon: "las la-h-square"
-    title: "Pets hotel"
-    content: "If you need us to take care of your loved one before the trip or when arriving in the country, we offer a wide and safe pet lodging service with all the care they need."
+    title: "Hotel de mascotas"
+    content: "Si lo necesitas, cuidaremos a tu mascota antes del viaje o después de arribar al país, ofrecemos un amplio y seguro servicio de hospedaje con todos los cuidados que tu mascota necesita."
 
 
 # intro_video
@@ -72,9 +72,9 @@ how_it_works:
 # testimonials
 testimonials:   
   enable: true
-  subtitle: "Our Testimonial"
-  title: "Don't take our word for it"
-  description: "¡Look at what our clients have to say!"
+  subtitle: "Testimonios"
+  title: "No nos creas a nosotros"
+  description: "¡Mira lo que dicen nuestros clientes!"
   image_left: "images/dog.png"
   image_right: "images/cat.png"
   
@@ -86,7 +86,7 @@ testimonials:
     image: "images/user-img/AyleenR.webp"
 
   - quote: "These people’s heart is in the right place. So eager to accommodate, so willing to go the extra mile to get the job done right. We love them, and feel our Zaguates are safe and pampered in their hands."
-    name: "DLya Battle"
+    name: "Lya Battle"
     designation: ""
     image: "images/user-img/LyaB.webp"
 
@@ -100,14 +100,14 @@ testimonials:
     designation: ""
     image: "images/user-img/LisaNorman.webp"
 
-  - quote: "Lorem ipsum dolor ame conseetur. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/09-i.jpg"
+  - quote: "Traje mis dos gatas desde Costa Rica hasta Seattle, Washington con Pets to Home. Las gatas llegaron bien sin ningún problema, la verdad no podría agradecerles más por toda la ayuda y buen trabajo para reunirnos a mi esposa y a mi de nuevo con nuestras mascotas! 100% recomendado!"
+    name: "Justin Murray"
+    designation: ""
+    image: "images/user-img/JustinM.webp"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/10-i.jpg"
+  - quote: "Son un éxito. No tenía idea de como sacar a mi gordi del país y ellos amablemente coordinaron e hicieron los trámites correspondientes. El servicio al cliente es excelente y definitivamente los recomiendo. Muchas gracias Pets to Home."
+    name: "Mariela Vargas"
+    designation: ""
+    image: "images/user-img/mariela-vargas.webp"
 
 ---

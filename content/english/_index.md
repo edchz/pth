@@ -74,7 +74,7 @@ testimonials:
   enable: true
   subtitle: "Our Testimonial"
   title: "Don't take our word for it"
-  description: "¡Look at what our clients have to say!"
+  description: "Look at what our clients have to say!"
   image_left: "images/dog.png"
   image_right: "images/cat.png"
   
