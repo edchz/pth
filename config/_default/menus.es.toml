@@ -12,19 +12,24 @@ url = "about/"
 weight = 2
 
 [[main]]
+name = "Servicios"
+url = "services/"
+weight = 3
+
+[[main]]
 name = "Como funciona"
 url = "how-it-works/"
-weight = 3
+weight = 4
 
 [[main]]
 name = "Cotización"
 url = "get-a-quote/"
-weight = 4
+weight = 5
 
 [[main]]
 name = "Contáctanos"
 url = "contact/"
-weight = 5
+weight = 6
 
 
 # footer menu

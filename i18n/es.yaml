@@ -1,212 +1,250 @@
 - id: socials
-  translation: Socials
+  translation: Redes Sociales
   
 - id: social_media
-  translation: Social Media
+  translation: Redes Sociales
   
 - id: quick_links
-  translation: Quick Links
+  translation: Links rápidos
   
 - id: location_contact
-  translation: Location & Contact
+  translation: Ubicación & Contacto
   
 - id: recent_posts
-  translation: Recent Posts by
+  translation: Posts recientes por
   
 - id: related_articles
-  translation: Related Articles
+  translation: Artículos relacionados
   
 - id: view_listing
-  translation: View Listing
+  translation: Ver lista
   
 - id: read_more
-  translation: Read More
+  translation: Leer más
   
 - id: about_the_role
-  translation: About the role
+  translation: Acerca del rol
   
 - id: fname
-  translation: First Name
+  translation: Nombre
   
 - id: full_name
-  translation: Full Name
+  translation: Nombre completo
   
 - id: lname
-  translation: Last Name
+  translation: Apellido
   
 - id: name_re
-  translation: Your name is required!
+  translation: Se requiere su nombre!
   
 - id: email
-  translation: Email Address
+  translation: Correo electrónico
   
 - id: email_re
-  translation: Your email is required!
+  translation: Se requiere su correo!
   
 - id: upload_cv
-  translation: Upload CV
+  translation: Suba CV
   
 - id: cv_note
-  translation: only doc, pdf file allowed &amp; file size will be less than 2MB
+  translation: solo archivos doc y pdf &amp; el tamaño del archivo deber ser menos de 2MB
   
 - id: cv_re
-  translation: Your CV is required!
+  translation: Se requiere se CV!
   
 - id: apply_job
-  translation: Apply for Job
+  translation: Aplique por un puesto
   
 - id: lets_meet
-  translation: Lets Meet
+  translation: Reunámonos
   
 - id: year
-  translation: Year
+  translation: Año
   
 - id: location
-  translation: Location
+  translation: Ubicación
   
 - id: company_size
-  translation: Company Size
+  translation: Tamaño de la compañía
   
 - id: send_a_message
-  translation: Send A Message
+  translation: Envíe un mensaje
   
 - id: send_message
-  translation: Send Message
+  translation: Envíe un mensaje
   
 - id: comment_re
-  translation: Your comment is required!
+  translation: Se requiere su comentario!
   
 - id: your_message
-  translation: Your Message
+  translation: Su mensaje
   
 - id: phone
-  translation: Phone
+  translation: Teléfono
   
 - id: contact_us
-  translation: Contact us
+  translation: Estamos para ayudarle
   
 - id: get_in_touch
-  translation: Get In Touch
+  translation: Contáctenos
   
 - id: form_thanks_message
-  translation: Thanks for your submission!
+  translation: Muchas gracias!
   
 - id: form_error_message
-  translation: Oops! There was a problem submitting your form
+  translation: Oops! Hay un problema para enviar el formulario!
   
 - id: min_read
-  translation: Min read
+  translation: Minutos de lectura
   
 - id: monthly
-  translation: Billed Monthly
+  translation: Facturado mensualmente
   
 - id: yearly
-  translation: Billed Annually
+  translation: Facturado anualmente
   
 - id: month
-  translation: Month
+  translation: Mes
   
 - id: year
-  translation: Year
+  translation: Año
 
 - id: get_a_quote
-  translation: Four easy steps to take off! 
+  translation: Cuatro pasos fáciles para despegar! 
 
 - id: pets_name
-  translation: Pet's name
+  translation: Nombre de tu mascota
 
 - id: species
-  translation: Species
+  translation: Especie
 
 - id: species_placeholder
-  translation: Dog, cat?
+  translation: Perro, gato?
 
 - id: age
-  translation: Age
+  translation: Edad
 
 - id: age_placeholder
-  translation: Your pet age
+  translation: Edad de tu mascota
 
 - id: breed
-  translation: Breed
+  translation: Raza
 
 - id: breed_placeholder
-  translation: Siberian Huskey?, Siamese?
+  translation: Dálmata?, Siames?
 
 - id: weight
-  translation: Weight
+  translation: Peso
 
 - id: pets_measurement_unit
-  translation: Measurement units
+  translation: Unidades de medida y tiempo
 
 - id: pets_measurement_unit_placeholder
-  translation: Choose measurement units
+  translation: Para la información de su mascota
 
-- id: measurement_system_usa
-  translation: pounds and inches
+- id: measurement_system_usa_years
+  translation: libras, pulgadas y años
 
-- id: measurement_system_intl
-  translation: kilograms and centimeters
+- id: measurement_system_usa_months
+  translation: libras, pulgadas y meses
+
+- id: measurement_system_intl_years
+  translation: kilogramos, centímetros y años
+
+- id: measurement_system_intl_months
+  translation: kilogramos, centímetros y meses
+
+- id: remember_msg
+  translation: Recuerde que está usando
+
+- id: units_intention
+  translation: Usare las siguientes
+
+- id: step_1
+  translation: STEP 1 - Información de su mascota
+
+- id: step_2
+  translation: STEP 2 - Jaula
+
+- id: step_3
+  translation: STEP 3 - Origen y destino
+
+- id: step_4
+  translation: STEP 4 - Tu información
 
 - id: email_placeholder
   translation: snoopy@example.com
 
 - id: pet_length
-  translation: Length - from nose to the beginning of the tail
+  translation: Largo - desde la nariz hasta el principio de la cola
   
 - id: pet_height
-  translation: Height - from the floor to your pet's highest point
+  translation: Alto - desde el suelo hasta la parte más alta de tu mascota
 
 - id: crate
-  translation: Do you have an airline approved crate?
+  translation: Tienes una jaula aprobada por una aerolínea?
 
 - id: crate_lenght
-  translation: Crate lenght
+  translation: Largo de la jaula
 
 - id: crate_height
-  translation: Crate height
+  translation: Alto de la jaula
 
 - id: crate_width
-  translation: Crate width
+  translation: Ancho de la jaula
 
 - id: crate_placeholder
-  translation: Choose one option
+  translation: Escoja una opción
 
 - id: affirmative 
-  translation: Yes. 
+  translation: Si. 
 
 - id: Departure_country
-  translation: Departure country
+  translation: País de origen
 
 - id: Departure_state
-  translation: Departure state
+  translation: Provincia de origen
 
 - id: Departure_city
-  translation: Departure city
+  translation: Ciudad de origen
 
 - id: Destination_country
-  translation: Destination country
+  translation: País de destino
 
 - id: Destination_state
-  translation: Destination state
+  translation: Provincia de destino
 
 - id: Destination_city
-  translation: Destination city
+  translation: Ciudad de destino
 
 - id: Departure_placeholder
-  translation: Where to pick your pet
+  translation: Donde recogeremos a tu mascota
 
 - id: Destination_placeholder
-  translation: Where we take your pet
+  translation: Donde entregaremos a tu mascota
 
 - id: Your_name
-  translation: Your name
+  translation: Tu nombre
 
 - id: Your_email
-  translation: Your email
+  translation: Tu correo electrónico
 
 - id: Your_phone
-  translation: Your phone number
+  translation: Tu número de teléfono
+
+- id: CTA_button
+  translation: Solicita una cotización
+
+- id: CTA_quote_a
+  translation: Si quieres que alguien te
+
+- id: CTA_quote_b
+  translation: para siempre
+- id: CTA_subquote
+  translation: consigue una mascota y tenla siempre junto a tí... reunámonos otra vez
 
 - id: lang_to_translate
-  translation: en  
+  translation: es
+
+- id: wapp_contact_quote
+  translation: Contáctenos    
