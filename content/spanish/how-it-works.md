@@ -1,14 +1,14 @@
 ---
-title: "How It Works"
+title: "Como funciona"
 layout: "how-it-works"
 draft: false
 
 how_it_works_video:
   enable: true
-  subtitle: "Our Features"
-  title: "How it works"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+  subtitle: 
+  title: "Como funciona"
+  description: "Transporte internacional de mascotas, fácil! "
+  video_url: "https://player.vimeo.com/video/728447827?h=138cbbf8ae"
   video_thumbnail: "images/video-popup.jpg"
 
 
@@ -16,19 +16,19 @@ how_it_works_video:
 how_it_works:   
   enable: true
   block:
-  - subtitle: "Who are we?"
-    title: "Nice to meet you! &#128075;"
-    description: "We are Pets to Home, a company dedicated to the international transport of pets to and from Costa Rica, we provide all the necessary services to make your pet's trip pleasant, safe and stress-free."
+  - subtitle: "Quiénes somos?"
+    title: "Que bueno conocerte! &#128075;"
+    description: "Somos Pets to Home, una compañía dedicada al transporte internacional de mascotas desde y hacia Costa Rica, ofrecemos todos los servicios necesarios para hacer del viaje de tu mascota una experiencia agradable, segura y sin estrés."
     image: "images/good_doggy.png"
 
-  - subtitle: "What we do"
-    title: "We can lend you a helping paw! &#128062;"
-    description: "Our staff consists, on the one hand, of logistics experts trained in the international standards of air transport of pets, and on the other, of veterinary doctors dedicated to their profession. This blend allows us to offer the quality service your pet deserves."
+  - subtitle: "Lo que hacemos"
+    title: "Podemos darte una pata! &#128062;"
+    description: "Nuestro equipo consiste en expertos en logística con amplia experiencia en el transporte internacional de mascotas, complementado con personal veterinario dedicado a su profesión. Esta combinación nos permite ofrecerle el servicio de calidad que tu mascota merece."
     image: "images/day67-dog.png"
 
-  - subtitle: "What we value" 
-    title: "The meaning of &#128150;"
-    description: "In Pets to Home we love what we do and because we also have pets, we completely understand that they become a member of the family. This is why our goal is to ensure the safest and most reliable transport of your pet to and from Costa Rica."
+  - subtitle: "Lo que valoramos" 
+    title: "El significado del &#128150;"
+    description: "En Pets to Home amamos lo que hacemos y como también tenemos mascotas sabemos y entendemos que son parte de la familia, y tratamos a cada una como si fueran nuestras. Por esto, nuestra meta es asegurarle a tu mascota el transporte mas confiable y seguro desde y hacia Costa Rica."
     image: "images/friends.png"
 
 ---
