@@ -8,7 +8,7 @@ how_it_works_video:
   subtitle: 
   title: "How it works"
   description: "International pet relocation made easy. <br> Here's how:"
-  video_url: "https://player.vimeo.com/video/728440519?h=e63e7e7db9"
+  video_url: "https://player.vimeo.com/video/728654434?h=43e7129b79&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
   video_thumbnail: "images/video-popup.jpg"
 
 
