@@ -3,7 +3,7 @@
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
@@ -23,6 +23,6 @@ copyright = "Conçu Par [Themefisher](https://themefisher.com/) & Développé Pa
 languageName = "Es"
 languageCode = "es-CR"
 contentDir = "content/spanish"
-weight = 2
+weight = 1
 # copyright
 copyright = "Conçu Par [Themefisher](https://themefisher.com/) & Développé Par [Gethugothemes](https://gethugothemes.com/)"
