@@ -34,7 +34,7 @@ what_we_do:
     content: "We provide crates of all sizes and travel accessories such as food plates and water bottles. Our crates fully comply with all the airline regulations."
 
   - title: "Pets hotel <span style='font-size:50px;'>&#128021;</span>"
-    content: "If you need us to take care of your pet before the trip or when arriving in the country, we offer a wide and safe lodging service with all the care they need."
+    content: "If you need us to take care of your pet before the trip or when arriving in the country, we offer a broad and safe lodging service with all the care they need."
 
 # our_mission
 our_mission:
