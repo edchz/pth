@@ -1,5 +1,5 @@
 ---
-title: "Get a quote"
+title: "Solicita tu cotización"
 layout: "get-a-quote"
 draft: false
 
