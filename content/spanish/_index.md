@@ -3,7 +3,7 @@
 banner:
   title: "Pets to Home <br>Transporte internacional de mascotas"
   button: "Solicite una cotización"
-  button_link: "/get-a-quote"
+  button_link: "/es/get-a-quote"
   image: "images/fido-viajero-2.webp"
 
 
