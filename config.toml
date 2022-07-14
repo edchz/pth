@@ -1,5 +1,5 @@
 baseURL = 'http://example.org/'
-languageCode = 'es-CR'
+languageCode = 'es'
 title = 'Pets to home - Costa Rica'
-defaultContentLanguage = 'es-CR'
+defaultContentLanguage = 'es'
 defaultContentLanguageInSubdir= true

@@ -185,13 +185,13 @@
   translation: Do you have an airline approved crate?
 
 - id: crate_lenght
-  translation: Crate lenght
+  translation: Crate's length
 
 - id: crate_height
-  translation: Crate height
+  translation: Crate's height
 
 - id: crate_width
-  translation: Crate width
+  translation: Crate's width
 
 - id: crate_placeholder
   translation: Choose one option
