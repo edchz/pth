@@ -3,7 +3,7 @@
 banner:
   title: "Pets to Home <br>Worldwide pet relocation"
   button: "Get a quote"
-  button_link: "/get-a-quote"
+  button_link: "/en/get-a-quote"
   image: "images/fido-viajero-2.webp"
 
 
