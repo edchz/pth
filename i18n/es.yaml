@@ -35,13 +35,13 @@
   translation: Apellido
   
 - id: name_re
-  translation: Se requiere su nombre!
+  translation: Se requiere tu nombre!
   
 - id: email
   translation: Correo electrónico
   
 - id: email_re
-  translation: Se requiere su correo!
+  translation: Se requiere tu correo!
   
 - id: upload_cv
   translation: Suba CV
@@ -50,7 +50,7 @@
   translation: solo archivos doc y pdf &amp; el tamaño del archivo deber ser menos de 2MB
   
 - id: cv_re
-  translation: Se requiere se CV!
+  translation: Se requiere tu CV!
   
 - id: apply_job
   translation: Aplique por un puesto
@@ -74,7 +74,7 @@
   translation: Envía un mensaje
   
 - id: comment_re
-  translation: Se requiere su comentario!
+  translation: Se requiere tu comentario!
   
 - id: your_message
   translation: Tu mensaje
@@ -83,7 +83,7 @@
   translation: Teléfono
   
 - id: contact_us
-  translation: Estamos para ayudarle
+  translation: Estamos para ayudarte
   
 - id: get_in_touch
   translation: Contáctanos
