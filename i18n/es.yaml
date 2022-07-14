@@ -68,16 +68,16 @@
   translation: Tamaño de la compañía
   
 - id: send_a_message
-  translation: Envíe un mensaje
+  translation: Envía un mensaje
   
 - id: send_message
-  translation: Envíe un mensaje
+  translation: Envía un mensaje
   
 - id: comment_re
   translation: Se requiere su comentario!
   
 - id: your_message
-  translation: Su mensaje
+  translation: Tu mensaje
   
 - id: phone
   translation: Teléfono
@@ -86,7 +86,7 @@
   translation: Estamos para ayudarle
   
 - id: get_in_touch
-  translation: Contáctenos
+  translation: Contáctanos
   
 - id: form_thanks_message
   translation: Muchas gracias!
@@ -119,7 +119,7 @@
   translation: Especie
 
 - id: species_placeholder
-  translation: Perro, gato?
+  translation: Perro?, gato?
 
 - id: age
   translation: Edad
@@ -140,7 +140,7 @@
   translation: Unidades de medida y tiempo
 
 - id: pets_measurement_unit_placeholder
-  translation: Para la información de su mascota
+  translation: Para la información de tu mascota
 
 - id: measurement_system_usa_years
   translation: libras, pulgadas y años
@@ -161,7 +161,7 @@
   translation: Usare las siguientes
 
 - id: step_1
-  translation: STEP 1 - Información de su mascota
+  translation: STEP 1 - Información de tu mascota
 
 - id: step_2
   translation: STEP 2 - Jaula
@@ -194,7 +194,7 @@
   translation: Ancho de la jaula
 
 - id: crate_placeholder
-  translation: Escoja una opción
+  translation: Escoje una opción
 
 - id: affirmative 
   translation: Si. 
@@ -241,10 +241,10 @@
 - id: CTA_quote_b
   translation: para siempre
 - id: CTA_subquote
-  translation: consigue una mascota y tenla siempre junto a tí... reunámonos otra vez
+  translation: consigue una mascota y tenla siempre junto a tí... estaremos juntos otra vez
 
 - id: lang_to_translate
   translation: es
 
 - id: wapp_contact_quote
-  translation: Contáctenos    
+  translation: Contáctanos    
