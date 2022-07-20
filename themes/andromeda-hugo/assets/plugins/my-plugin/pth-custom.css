@@ -155,9 +155,5 @@
     }
 
 .hero-image {
-    width: 100vw;
-    height: 100vh;
-    background-image: url ("awesome.png");
-    background-position: center center;
-    background-size: cover;
+    text-align: center;
 }
