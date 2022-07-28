@@ -127,6 +127,9 @@
 - id: age_placeholder
   translation: Edad de tu mascota
 
+- id: age_msg
+  translation: La edad se indica en
+
 - id: breed
   translation: Raza
 
@@ -134,7 +137,10 @@
   translation: Dálmata?, Siames?
 
 - id: weight
-  translation: Peso
+  translation: Peso (kgs)
+
+- id: weight_placeholder
+  translation: Por favor use kilos
 
 - id: pets_measurement_unit
   translation: Unidades de medida y tiempo
@@ -161,37 +167,43 @@
   translation: Usare las siguientes
 
 - id: step_1
-  translation: STEP 1 - Información de tu mascota
+  translation: PASO 1 - Información de tu mascota
 
 - id: step_2
-  translation: STEP 2 - Jaula
+  translation: PASO 2 - Jaula
 
 - id: step_3
-  translation: STEP 3 - Origen y destino
+  translation: PASO 3 - Origen y destino
 
 - id: step_4
-  translation: STEP 4 - Tu información
+  translation: PASO 4 - Tu información
 
 - id: email_placeholder
   translation: snoopy@example.com
 
 - id: pet_length
   translation: Largo - desde la nariz hasta el principio de la cola
+
+- id: length_placeholder
+  translation: En centímetros
   
 - id: pet_height
   translation: Alto - desde el suelo hasta la parte más alta de tu mascota
+
+- id: height_placeholder
+  translation: En centímetros
 
 - id: crate
   translation: Tienes una jaula aprobada por una aerolínea?
 
 - id: crate_lenght
-  translation: Largo de la jaula
+  translation: Largo de la jaula (cms)
 
 - id: crate_height
-  translation: Alto de la jaula
+  translation: Alto de la jaula (cms)
 
 - id: crate_width
-  translation: Ancho de la jaula
+  translation: Ancho de la jaula (cms)
 
 - id: crate_placeholder
   translation: Escoje una opción
@@ -247,4 +259,13 @@
   translation: es
 
 - id: wapp_contact_quote
-  translation: Contáctanos    
+  translation: Contáctanos
+
+- id: years
+  translation: Años
+
+- id: months
+  translation: Meses 
+
+- id: add_msg
+  translation: Para incluir otra mascota pulse el botón      

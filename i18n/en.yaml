@@ -127,14 +127,20 @@
 - id: age_placeholder
   translation: Your pet age
 
+- id: age_msg
+  translation: Age is given in
+
 - id: breed
   translation: Breed
 
 - id: breed_placeholder
   translation: Siberian Huskey?, Siamese?
 
-- id: weight
-  translation: Weight
+- id: weight 
+  translation: Weight (pounds)
+
+- id: weight_placeholder
+  translation: Please use pounds
 
 - id: pets_measurement_unit
   translation: Units of measurement and time
@@ -177,21 +183,27 @@
 
 - id: pet_length
   translation: Length - from nose to the beginning of the tail
+
+- id: length_placeholder
+  translation: Use inches
   
 - id: pet_height
   translation: Height - from the floor to your pet's highest point
+
+- id: height_placeholder
+  translation: Use inches
 
 - id: crate
   translation: Do you have an airline approved crate?
 
 - id: crate_lenght
-  translation: Crate's length
+  translation: Crate's length (inches)
 
 - id: crate_height
-  translation: Crate's height
+  translation: Crate's height (inches)
 
 - id: crate_width
-  translation: Crate's width
+  translation: Crate's width (inches)
 
 - id: crate_placeholder
   translation: Choose one option
@@ -247,4 +259,13 @@
   translation: en
 
 - id: wapp_contact_quote
-  translation: Contact us    
+  translation: Contact us
+
+- id: years
+  translation: Years
+
+- id: months
+  translation: Months
+
+- id: add_msg
+  translation: For additional pets click the button      
