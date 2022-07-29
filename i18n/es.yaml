@@ -268,4 +268,7 @@
   translation: Meses 
 
 - id: add_msg
-  translation: Para incluir otra mascota pulse el botón      
+  translation: Para incluir otra mascota pulse el botón
+
+- id: redirect_to
+  translation: https://www.petstohomecr.com/es/thank-you/      

@@ -268,4 +268,7 @@
   translation: Months
 
 - id: add_msg
-  translation: For additional pets click the button      
+  translation: For additional pets click the button 
+
+- id: redirect_to
+  translation: https://www.petstohomecr.com/en/thank-you/      
