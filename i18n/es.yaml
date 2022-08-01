@@ -271,4 +271,7 @@
   translation: Para incluir otra mascota pulse el botón
 
 - id: redirect_to
-  translation: https://www.petstohomecr.com/es/thank-you/      
+  translation: https://www.petstohomecr.com/es/thank-you/ 
+
+- id: quote_url
+  translation: /es/get-a-quote/           

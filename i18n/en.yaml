@@ -271,4 +271,7 @@
   translation: For additional pets click the button 
 
 - id: redirect_to
-  translation: https://www.petstohomecr.com/en/thank-you/      
+  translation: https://www.petstohomecr.com/en/thank-you/
+
+- id: quote_url
+  translation: /en/get-a-quote/      
