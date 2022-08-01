@@ -35,7 +35,7 @@
                       <div class="form-group">
                         <label for="pets_age">{{i18n `age`}}</label>
                         <input class="form-control shadow-none rounded-field" id="pets_age" name="age" type="number"
-                          placeholder="{{i18n `age_placeholder`}}" required>
+                          placeholder="{{i18n `age_placeholder`}}" step="0.01" min="0" required>
                       </div>
                       <p style="color:rgb(86, 84, 84); font-weight: bold;">{{i18n `age_msg`}}:</p>
                       <fieldset data-kw-group rules="required" style="color:black; text-align: center;">
@@ -55,17 +55,17 @@
                       <div class="form-group">
                         <label for="weight">{{i18n `weight`}}</label>
                         <input class="form-control shadow-none rounded-field" id="weight" name="weight" type="number"
-                          placeholder="{{i18n `weight_placeholder`}}" required>
+                          placeholder="{{i18n `weight_placeholder`}}" step="0.01" min="0" required>
                       </div>
                       <div class="form-group">
                         <label for="pet_length">{{i18n `pet_length`}}</label>
                         <input class="form-control shadow-none rounded-field" id="pet_length" name="pet_length"
-                          placeholder="{{i18n `length_placeholder`}}" type="number" required>
+                          placeholder="{{i18n `length_placeholder`}}" type="number" step="0.01" min="0" required>
                       </div>
                       <div class="form-group">
                         <label for="pet_height">{{i18n `pet_height`}}</label>
                         <input class="form-control shadow-none rounded-field" id="pet_height" name="pet_height"
-                          placeholder="{{i18n `height_placeholder`}}" type="number" required>
+                          placeholder="{{i18n `height_placeholder`}}" type="number" step="0.01" min="0" required>
                       </div>
                       <p style="color:rgb(86, 84, 84); font-weight: bold;">{{i18n `add_msg`}}:</p>
                     </div>
@@ -85,17 +85,17 @@
                     <div class="form-group">
                       <label for="crate_length">{{i18n `crate_lenght`}}</label>
                       <input class="form-control shadow-none rounded-field" id="crate_length" name="crate_length"
-                        type="number" placeholder="{{i18n `height_placeholder`}}">
+                        type="number" placeholder="{{i18n `height_placeholder`}}" step="0.01" min="0">
                     </div>
                     <div class="form-group">
                       <label for="crate_height">{{i18n `crate_height`}}</label>
                       <input class="form-control shadow-none rounded-field" id="crate_height" name="crate_height"
-                        type="number" placeholder="{{i18n `height_placeholder`}}">
+                        type="number" placeholder="{{i18n `height_placeholder`}}" step="0.01" min="0">
                     </div>
                     <div class="form-group">
                       <label for="crate_width">{{i18n `crate_width`}}</label>
                       <input class="form-control shadow-none rounded-field" id="crate_width" name="crate_width"
-                        type="number" placeholder="{{i18n `height_placeholder`}}">
+                        type="number" placeholder="{{i18n `height_placeholder`}}" step="0.01" min="0">
                     </div>
                   </div>
                 </div>
