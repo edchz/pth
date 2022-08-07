@@ -30,7 +30,7 @@ what_we_do:
   - title: "Recogida y entrega <span style='font-size:50px;'>&#128656;</span>"
     content: "Los recogemos en tu hogar u hotel para entregarlos a la aerolínea. Después de llegar a su destino, la llevamos a su nuevo hogar una vez terminados los procedimientos de importación."
 
-  - title: "Sale of crates and accessories <span style='font-size:50px;'>&#128008;</span>"
+  - title: "Venta de jaulas y accesorios <span style='font-size:50px;'>&#128008;</span>"
     content: "Ofrecemos jaulas de todos los tamaños y accesorios de viaje como botellas de agua y platos para comida. Nuestras jaulas cumplen completamente con las regulaciones de las aerolíneas."
 
   - title: "Hotel de mascotas <span style='font-size:50px;'>&#128021;</span>"
