@@ -188,7 +188,9 @@ body {
 -------------------------------------------------------------------*/
 @media (min-width: 992px) {
   .container {
-    max-width: 1060px; } }
+    max-width: 1060px; }
+  #whatsapp-link {
+    width: 10%; } }
 
 @media (min-width: 1200px) {
   .container {
