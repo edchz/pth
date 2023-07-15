@@ -2,7 +2,7 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.webp"
+logo = "images/logonew.webp"
 # use `x` with logo_width, example: "100x"
 logo_width = "90x"
 # logo text will only show when logo is missing.
