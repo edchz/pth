@@ -52,3 +52,8 @@ weight = 3
 name = "Contáctanos"
 url = "contact/"
 weight = 4
+
+[[footer]]
+name = "Política de privacidad"
+url = "terms-and-conditions/"
+weight = 5

@@ -1,37 +1,51 @@
 ---
-title: "Terms & Conditions"
-date: "2021-07-16"
+title: "Política de privacidad y protección de datos"
+date: "2023-01-01"
 layout: "terms-and-conditions"
 draft: false
 
-description: "By Using The Service Or Clicking “I Agree”, The User Is Agreeing To Be Bound By This Agreement. If You Are Agreeing To This Agreement On Behalf Of Or For The Benefit Of A Company, Then The User Represents And Warrants That It Has The Necessary Authority To Agree To This Agreement On The Company’s"
+description: "PETS TO HOME S.A., cédula de persona jurídica número 3-101-720328 domiciliada en Costa Rica, Alajuela, Mall Internacional, Centro de Negocios, Local # 65 (en adelante “PETS TO HOME&quot;), le informa que, de acuerdo a la Ley de Protección de la Persona frente a la utilización de sus datos personales Nº 8968 (en adelante, la “LPD”) y su Reglamento y de la existencia de una Base de Datos de carácter personal creada por la responsable y denominada “Base de Datos PETS TO HOME”"
 ---
 
-### 1. Definitions
-We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our Site, we may collect non-identifying information from you, such as referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.The term "personal data" does not include any anonymized and aggregated data made on the basis of personal data, which are wholly owned by Conclude.
+### 1. Definiciones
+Web: Pets to home
+Usuario: usted con la simple descarga y uso de la web.
+Usuario Registrado: usted, una vez cumplimentado cualesquiera de los formularios de registro en la web.
+Base de Datos: Conjunto de datos de carácter personal de los usuarios registrados, debidamente organizado y utilizado para las finalidades que PETS TO HOME le informe en esta “Política de Privacidad y Protección de Datos”
 
-### 2. General Terms
+### 2. De la identidad del usuario registrado, veracidad y exactitud de la información suministrada
+El usuario registrado manifiesta, que es quien dice ser y que conoce las consecuencias legales de actuar haciéndose pasar por otra persona, así como que la información que introduce en la web de PETS TO HOME es exacta, y que asume el deber de cumplir con las actualizaciones necesarias de información, para mantenerla clara y exacta en todo momento. En caso de faltar a esa obligación de actualización, el usuario registrado exime a PETS TO HOME de toda consecuencia legal, en cuanto a estos elementos de autenticidad y precisión correspondientes y al principio de calidad de la información, establecido en la legislación nacional.
+Por otra parte, si PETS TO HOME llegara a establecer, que se ha introducido información de manera contraria a lo señalado en el párrafo anterior, procederá de inmediato a concluir cualesquiera derechos que haya obtenido, en cuanto a la web y dar por finalizada la relación en el momento. Todo lo anterior, sin perjuicio de la posibilidad de entablar aquellas acciones legales que sean necesarias para proteger los derechos de PETS TO HOME o cualesquiera terceros que hayan sufrido un daño, a consecuencia de la infracción que se haya cometido.
 
-#### Service Provided AS IS:
-The Service is provided for free during this pilot project, and is provided "as is" with no warranty. Conclude will provide User support for the Service, however; Conclude is not committed to any level of service or availability of the Service. A further description of the Service and our user support is available at the Site.
+### 3. De la recopilación de otra información en la web
+Aparte de la información que nos facilita en el proceso, como usuario registrado, PETS TO HOME podrá ampliar, con otro tipo de información por medio de encuestas, entrevistas o cuestionarios que se envíen al usuario registrado, además se le hace ver que PETS TO HOME utiliza sistemas automatizados de análisis de tráfico del usuario registrado y recopila información sobre su experiencia en la utilización de nuestra web. Esto último se hace con el objetivo de prestarle un servicio seguro, sin perjuicio de lo anterior y se le garantiza al usuario registrado, que la información que se selecciona, según lo establecido en el presente párrafo, es absolutamente privada y para la utilización de PETS TO HOME, que la hará para fines de prospección comercial propios o de terceros, y no se otorgará acceso o se transferirá la misma a terceros. PETS TO HOME, no solicita información de tipo catalogada como “sensible” por la regulación de protección de datos de los usuarios registrados de la web. Por tanto, si usted recibe una comunicación identificada como de “PETS TO HOME” requiriendo este tipo de información, se le
+suplica que se comunique inmediatamente con nosotros, a la dirección indicada en este documento y no responda al remitente de dichos mensajes.
 
-#### Interoperation with Slack:
-The Service interoperates with Slack.com, and depends on the continuing availability and access to Slack. If for any reason Conclude cannot access or use Slack (including without limitation, change in terms or increase in fees charged by Slack), Conclude may not be able to provide all of the functions of its Service. No refund or credit, if applicable, will be provided for temporary unavailability of Slack (for example, maintenance windows).
+### 4. De la calidad de los datos y revocación del consentimiento
+Los datos obtenidos son los apropiados, oportunos y no excesivos en relación con el ámbito, las finalidades y servicios prestados por PETS TO HOME y su relación con el usuario registrado, teniendo datos que son marcados con un “*” como obligatorios y otros que no lo son. No obstante, en el caso que se haya dado su consentimiento para que se proceda a tratar sus datos, dicho consentimiento podrá ser revocado en cualquier momento, enviando una comunicación a la dirección: info@petstohomecr.com.
 
-#### Company Liability:
-If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible under this Agreement for all actions and omissions conducted by its designated users of the Service.
+### 5. Resultados de la negativa de suministrar datos
+La implicación de no facilitar los datos, o de negar el consentimiento en cualquier tiempo para su tratamiento, no será impedimento para PETS TO HOME de prestar los diferentes servicios ofrecidos a usted como usuario registrado de la web, incluso de no habilitarle la cuenta de usuario registrado y no tener acceso a la misma.
 
-### 4. Rules of Use
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude's online user guide and all applicable laws and regulations.
+### 6. De la mayoría de edad del usuario
+La utilización de la web, está pensada para mayores de 18 años. Sin embargo, también podrán hacer utilización de la web menores de edad, entendiéndose que lo hacen bajo la supervisión y responsabilidad de sus padres o tutores. Adicionalmente, si un menor de edad quisiera crear un usuario registrado en la web, se solicitará la autorización pertinente de sus padres o tutores legales, para recopilar su data personal.  
+Asimismo, queda prohibido a los menores de edad, aunque cuenten con el consentimiento de sus padres, incluir cualquier tipo de información que: “Esté considerada como datos sensibles por la LPD y/ó datos de carácter personal de sus padres o tutores” que no sean meramente de contacto, para verificar la autorización mencionada en el párrafo anterior.
 
-#### You must not:
-* Enhance or improve User experience, our Site, or our Service.
-* Process transactions.
-* Send emails about our Site or respond to inquiries.
-* As this Privacy Policy and our Terms of Service.
+### 7. De los derechos que le asisten
+El usuario registrado podrá realizar los derechos de acceso, rectificación, revocación o eliminación al tratamiento de sus datos personales, dirigiendo una comunicación por escrito a PETS TO HOME dirigiéndose a la siguiente dirección de correo electrónico: info@petstohomecr.com.
 
-### 5. Intellectual Property Rights
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you choose to provide information to us, Conclude transfers Personal Information to Google Cloud Platform and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+### 8. Respecto de las comunicaciones con los usuarios registrados
+La administración de los datos personales y el envío de comunicaciones por medios electrónicos se ajustan a la normativa establecida en la LPD y su Reglamento.
+En el momento de gestionar su cuenta de usuario registrado, autoriza a PETS TO HOME enviarle comunicaciones en nombre de PETS TO HOME o de terceros, Sin embargo, en todas las comunicaciones electrónicas expedidas por PETS TO HOME, se informará formalmente el nombre del remitente, así como la manera en que podrá oponerse a seguir recibiendo comunicaciones. Sin perjuicio de lo anterior, los usuarios registrados, que lo soliciten, pueden prescindir de este
+servicio de forma simple y gratuita, dirigiendo una comunicación por escrito a la dirección indicada de correo electrónico: info@petstohomecr.com.
+
+### 9. De los niveles de seguridad
+Los datos de carácter personal de nuestros usuarios registrados, son reunidos y almacenados en la base de datos propiedad de PETS TO HOME, la que le fue indicada al principio y que garantiza las medidas apropiadas de índole técnica y estructural para garantizar la integridad y seguridad de la información personal, proporcionada de acuerdo al estado actual de la técnica.
+PETS TO HOME mantiene los niveles de seguridad de protección de sus datos, de acuerdo a la LPD y su Reglamento, que contengan datos de carácter personal y se ha establecido todos los medios técnicos, a los cuales tenga acceso para evitar la pérdida, mal uso, alteración, acceso no autorizado y robo de los datos que usted facilite a PETS TO HOME, sin perjuicio de informarle de que las medidas de seguridad en Internet, nunca pueden ser consideradas totalmente seguras.
+
+### 10. Ley aplicable y fuero
+Esta Política de Privacidad y Protección de Datos se rige por la ley vigente costarricense. Las partes se supeditan al sistema administrativo, los juzgados y tribunales de Costa Rica.
+Todas las acciones de PETS TO HOME o usuarios registrados, se considerarán hechas en territorio costarricense para cualquier efecto legal.
+Esta Política de Privacidad y Protección de Datos se rige e interpretará conforme a la legislación costarricense, en aquello que no esté expresamente establecido.
+He leído y acepto la política de privacidad y protección de datos.
+
