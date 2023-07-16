@@ -8,10 +8,10 @@ description: "PETS TO HOME S.A., cédula de persona jurídica número 3-101-7203
 ---
 
 ### 1. Definiciones
-Web: Pets to home
-Usuario: usted con la simple descarga y uso de la web.
-Usuario Registrado: usted, una vez cumplimentado cualesquiera de los formularios de registro en la web.
-Base de Datos: Conjunto de datos de carácter personal de los usuarios registrados, debidamente organizado y utilizado para las finalidades que PETS TO HOME le informe en esta “Política de Privacidad y Protección de Datos”
+* Web: Pets to home
+* Usuario: usted con la simple descarga y uso de la web.
+* Usuario Registrado: usted, una vez cumplimentado cualesquiera de los formularios de registro en la web.
+* Base de Datos: Conjunto de datos de carácter personal de los usuarios registrados, debidamente organizado y utilizado para las finalidades que PETS TO HOME le informe en esta “Política de Privacidad y Protección de Datos”
 
 ### 2. De la identidad del usuario registrado, veracidad y exactitud de la información suministrada
 El usuario registrado manifiesta, que es quien dice ser y que conoce las consecuencias legales de actuar haciéndose pasar por otra persona, así como que la información que introduce en la web de PETS TO HOME es exacta, y que asume el deber de cumplir con las actualizaciones necesarias de información, para mantenerla clara y exacta en todo momento. En caso de faltar a esa obligación de actualización, el usuario registrado exime a PETS TO HOME de toda consecuencia legal, en cuanto a estos elementos de autenticidad y precisión correspondientes y al principio de calidad de la información, establecido en la legislación nacional.
