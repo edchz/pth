@@ -1,6 +1,7 @@
 ---
 title: "Gracias"
 layout: "signin"
+slug: "gracias"
 draft: false
 
 image: "images/vectors/signup.png"
