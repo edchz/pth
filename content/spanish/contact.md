@@ -1,5 +1,5 @@
 ---
-title: "Contáctanos"
+title: "Comunicate con Pets to Home Costa Rica"
 layout: "contact"
 slug: "contactanos"
 draft: false

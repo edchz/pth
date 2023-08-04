@@ -1,5 +1,5 @@
 ---
-title: "Solicita tu cotización"
+title: "Solicita tu cotización - Lleva a tu mascota contigo cuando vayas otro país"
 layout: "get-a-quote"
 slug: "cotizacion"
 draft: false

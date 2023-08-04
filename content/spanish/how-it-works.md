@@ -1,5 +1,5 @@
 ---
-title: "Como funciona"
+title: "Como viajar a otro país con tu mascota"
 layout: "how-it-works"
 slug: "como-funciona"
 draft: false

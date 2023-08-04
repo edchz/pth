@@ -1,5 +1,5 @@
 ---
-title: "Nosotros"
+title: "Pets to Home - Transporte internacional de mascotas"
 slug: "nosotros"
 layout: "about"
 draft: false
