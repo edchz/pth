@@ -1,6 +1,7 @@
 ---
 title: "Solicita tu cotización"
 layout: "get-a-quote"
+slug: "cotizacion"
 draft: false
 
 contact_image: "images/dog.png"

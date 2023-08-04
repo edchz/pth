@@ -1,6 +1,7 @@
 ---
 title: "Servicios"
 layout: "services"
+slug: "servicios"
 draft: false
 
 # services

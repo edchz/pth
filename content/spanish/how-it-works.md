@@ -1,6 +1,7 @@
 ---
 title: "Como funciona"
 layout: "how-it-works"
+slug: "como-funciona"
 draft: false
 
 how_it_works_video:

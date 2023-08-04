@@ -8,49 +8,49 @@ weight = 1
 
 [[main]]
 name = "Nosotros"
-url = "about/"
+url = "nosotros/"
 weight = 2
 
 [[main]]
 name = "Servicios"
-url = "services/"
+url = "servicios/"
 weight = 3
 
 [[main]]
 name = "Como funciona"
-url = "how-it-works/"
+url = "como-funciona/"
 weight = 4
 
 [[main]]
 name = "Cotización"
-url = "get-a-quote/"
+url = "cotizacion/"
 weight = 5
 
 [[main]]
 name = "Contáctanos"
-url = "contact/"
+url = "contactanos/"
 weight = 6
 
 
 # footer menu
 [[footer]]
 name = "Nosotros"
-url = "about/"
+url = "nosotros/"
 weight = 1
 
 [[footer]]
 name = "Como funciona"
-url = "how-it-works/"
+url = "como-funciona/"
 weight = 2
 
 [[footer]]
 name = "Cotización"
-url = "get-a-quote/"
+url = "cotizacion/"
 weight = 3
 
 [[footer]]
 name = "Contáctanos"
-url = "contact/"
+url = "contactanos/"
 weight = 4
 
 [[footer]]

@@ -1,5 +1,6 @@
 ---
 title: "Nosotros"
+slug: "nosotros"
 layout: "about"
 draft: false
 
