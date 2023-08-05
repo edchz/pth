@@ -35,22 +35,22 @@ features:
   features_blocks:
   - icon: "las la-globe-americas"
     title: "Export"
-    content: "No matter your pet's destination, we'll ensure it arrives safely and comfortably. We carry out veterinary and customs procedures and coordinate with the selected airline"
+    content: "You can be confident in our ability to guarantee a secure and pleasant journey for your cherished pet upon arrival, no matter where they are headed."
   - icon: "las la-plane-departure"
     title: "Import"
-    content: "We do the whole process of releasing your pet from customs, permits, taxes, and formalities. We go the extra mile to ensure a stress-free experience"
+    content: "Our comprehensive services comprise veterinary and customs procedures, and we collaborate closely with the selected airline to provide a seamless experience."
   - icon: "las la-truck"
     title: "Pickup and delivery"
-    content: "We pick them up at your home to deliver them to the airline. After the pet has reached its destination, we take them home once the import procedure is done."
+    content: "We'll pick them up from your doorstep and get them to the airline safely. Once they've arrived at their destination, we'll make sure they make it home safe and sound after all the formalities have been taken care of."
   - icon: "las la-stethoscope"
     title: "Veterinary services"
-    content: "We provide all the veterinary services required by the country of destination: microchips, deworming and vaccinations, blood tests, and veterinary certificates."
+    content: "We offer all the necessary veterinary services required by the destination country, including microchipping, deworming, vaccinations, blood tests, and the issuance of veterinary certificates."
   - icon: "las la-lock"
     title: "Sales of crates and accesories"
-    content: "We provide crates of all sizes and travel accessories such as food plates and water bottles. Our crates fully comply with all the airline regulations."
+    content: "We offer crates in various sizes and travel accessories, including food plates and water bottles. Our crates are fully compliant with all airline regulations."
   - icon: "las la-h-square"
     title: "Pets hotel"
-    content: "If you need us to take care of your pet before the trip or when arriving in the country, we offer a wide and safe lodging service with all the care they need."
+    content: "If you require assistance in looking after your furry companion before the trip or when arriving in the country, we offer a comprehensive and safe lodging service with all the care they need."
 
 
 # intro_video

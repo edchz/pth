@@ -18,17 +18,17 @@ how_it_works:
   block:
   - subtitle: "Who are we?"
     title: "Nice to meet you! &#128075;"
-    description: "We are Pets to Home, a company dedicated to the international transport of pets to and from Costa Rica, we provide all the necessary services to make your pet's trip pleasant, safe, and stress-free."
+    description: "Thank you for considering Pets to Home for your pet's international transportation needs. We take great pride in our commitment to ensuring that your pets have a comfortable, safe, and stress-free trip."
     image: "images/good_doggy.png"
 
   - subtitle: "What we do"
     title: "We can lend you a helping paw! &#128062;"
-    description: "On the one hand, our staff consists of logistics experts trained in the international standards of air transport of pets, and on the other, of veterinary doctors dedicated to their profession. This blend allows us to offer the quality service your pet deserves."
+    description: "Our team is dedicated to providing all the necessary services to make your pet's journey pleasant and worry-free. We have a team of logistics experts who are well-versed in the international standards of air transport for pets. In addition, we also have veterinary doctors who are dedicated to their profession. This combination enables us to provide top-notch service that your beloved pet deserves."
     image: "images/day67-dog.png"
 
   - subtitle: "What we value" 
     title: "The meaning of &#128150;"
-    description: "In Pets to Home, we love what we do and because we also have pets, we completely understand that they become a family member. This is why our goal is to ensure your pet's safest and most reliable transport to and from Costa Rica."
+    description: "At Pets to Home, we are dedicated to our work and share your love for your furry family members. We provide dependable and safe transportation services to and from Costa Rica, knowing that your pets are precious to you."
     image: "images/friends.png"
 
 ---
