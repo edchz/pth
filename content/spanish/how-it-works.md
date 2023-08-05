@@ -2,6 +2,7 @@
 title: "Como viajar a otro país con tu mascota"
 layout: "how-it-works"
 slug: "como-funciona"
+keywords: como viajar con mascotas, transporte de mascotas en avión, viaje internacional con perros, viaje internacional con gatos
 draft: false
 
 how_it_works_video:

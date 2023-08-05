@@ -1,6 +1,7 @@
 ---
 title: "Pets to Home - Transporte internacional de mascotas"
 slug: "nosotros"
+keywords: somos Pets to Home, Costa Rica, viaje internacional con mascotas, exportacion e importacion de mascotas
 layout: "about"
 draft: false
 
