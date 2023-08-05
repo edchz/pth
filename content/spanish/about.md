@@ -1,5 +1,5 @@
 ---
-title: "Pets to Home - Transporte internacional de mascotas"
+title: "Conoce a Pets to Home"
 slug: "nosotros"
 keywords: somos Pets to Home, Costa Rica, viaje internacional con mascotas, exportacion e importacion de mascotas
 layout: "about"
@@ -21,7 +21,7 @@ what_we_do:
   title: "Lo que hacemos"
   block:
   - title: "Exportación <span style='font-size:50px;'>&#127758;</span>"
-    content: "No importa el destino de tu mascota,nos aseguraremos de que llegue segura y confortable. Nos encargaremos de todo, desde los procedimientos veterinarios y aduaneros, hasta la coordinación con la aerolínea sleccionada"
+    content: "No importa el destino de tu mascota,nos aseguraremos de que llegue segura y confortable. Nos encargaremos de todo, desde los procedimientos veterinarios y aduaneros, hasta la coordinación con la aerolínea seleccionada"
 
   - title: "Importación <span style='font-size:50px;'>&#128747;</span>"
     content: "Hacemos todo el proceso para que tu mascota llegue feliz a su destino, nos encargamos de los permisos impuestos y formalidades."
