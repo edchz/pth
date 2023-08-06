@@ -1,5 +1,5 @@
 ---
-title: "Conoce a Pets to Home"
+title: "Conócenos | Pets to Home"
 slug: "nosotros"
 keywords: somos Pets to Home, Costa Rica, viaje internacional con mascotas, exportacion e importacion de mascotas
 layout: "about"
