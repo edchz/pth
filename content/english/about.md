@@ -1,6 +1,12 @@
 ---
-title: "About"
+title: "Trusted Worldwide Pet Relocation Company | About Our Pet Transport Expertise"
 layout: "about"
+keywords:
+ - Trusted worlwide Pet Relocation Company
+ - Expert Animal Movers
+ - Our Team and Values
+ - Worldwide Pet Shipping Specialists
+ - Reliability in Pet Transport
 draft: false
 
 # who_we_are

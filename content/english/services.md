@@ -1,6 +1,12 @@
 ---
-title: "Services"
+title: "Global Pet Relocation Services | International Pet Transport"
 layout: "services"
+keywords: 
+ - International Pet Shipping
+ - Worldwide Pet Transport Services
+ - Global Pet Relocation
+ - Animal Transport Solutions
+ - Cross-border Pet Moving
 draft: false
 
 # services

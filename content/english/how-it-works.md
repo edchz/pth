@@ -1,6 +1,12 @@
 ---
-title: "How It Works"
+title: "Pet Shipping Process | International Pet Transport Steps"
 layout: "how-it-works"
+keywords:
+ - Pet Relocation Process
+ - Step-by-Step Pet Shipping
+ - Moving Pets Internationally
+ - Pet Travel Procedures
+ - Transporting Pets Worldwide
 draft: false
 
 how_it_works_video:

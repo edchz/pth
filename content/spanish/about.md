@@ -1,7 +1,12 @@
 ---
 title: "Conócenos | Pets to Home"
 slug: "nosotros"
-keywords: somos Pets to Home, Costa Rica, viaje internacional con mascotas, exportacion e importacion de mascotas
+keywords: 
+ - Compañía de Reubicación de Mascotas Confiable
+ - Expertos en Mudanza de Mascotas
+ - Profesionales en Transporte Internacional de Mascotas
+ - Especialistas en Envío de Mascotas a Nivel Mundial
+ - Confiabilidad en el Transporte internacional de Mascotas"
 layout: "about"
 draft: false
 
