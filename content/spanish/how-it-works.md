@@ -26,17 +26,17 @@ how_it_works:
   block:
   - subtitle: "Quiénes somos?"
     title: "Que bueno conocerte! &#128075;"
-    description: "Somos Pets to Home, una compañía dedicada al transporte internacional de mascotas desde y hacia Costa Rica, ofrecemos todos los servicios necesarios para hacer del viaje de tu mascota una experiencia agradable, segura y sin estrés."
+    description: "Somos Pets to Home, una empresa líder en transporte internacional de mascotas, con más de 10 años de experiencia. Nos especializamos en brindar un servicio personalizado y de alta calidad para que tu mascota viaje segura y cómodamente, sin importar el destino."
     image: "images/good_doggy.png"
 
   - subtitle: "Lo que hacemos"
-    title: "Podemos darte una pata! &#128062;"
-    description: "Nuestro equipo consiste en expertos en logística con amplia experiencia en el transporte internacional de mascotas, complementado con personal veterinario dedicado a su profesión. Esta combinación nos permite ofrecerle el servicio de calidad que tu mascota merece."
+    title: "¡Podemos darte una pata! &#128062;"
+    description: "Ofrecemos una amplia variedad de servicios para que el viaje de tu mascota sea una experiencia agradable, segura y sin estrés. Desde la recogida en su hogar hasta la entrega en su nuevo destino, ¡nos encargamos de todo! Nuestro equipo de profesionales está altamente capacitado y comprometido con su bienestar."
     image: "images/day67-dog.png"
 
   - subtitle: "Lo que valoramos" 
     title: "El significado del &#128150;"
-    description: "En Pets to Home amamos lo que hacemos y como también tenemos mascotas sabemos y entendemos que son parte de la familia, y tratamos a cada una como si fueran nuestras. Por esto, nuestra meta es asegurarle a tu mascota el transporte mas confiable y seguro desde y hacia Costa Rica."
+    description: "En Pets to Home amamos lo que hacemos y como también tenemos mascotas sabemos y entendemos que son parte de la familia. Nuestra pasión y compromiso aseguran que cada una reciba un servicio de calidad, confiable y seguro desde y hacia cualquier parte del mundo."
     image: "images/friends.png"
 
 ---

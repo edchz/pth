@@ -44,7 +44,7 @@ features:
     content: "Recogemos a tu mascota en tu casa para entregarla a la aerolínea. Cuando llegue a su destino, una vez realizado el procedimiento de importación la entregaremos en su nuevo hogar."
   - icon: "las la-stethoscope"
     title: "Servicios veterinarios"
-    content: "We provide all the veterinary services required by the country of destination: microchips, deworming and vaccinations, blood tests, and veterinary certificates."
+    content: "Ofrecemos todos los servicios veterinarios requeridos por el país de destino: microchips, desparasitación y vacunación, pruebas de sangre y certificados veterinarios."
   - icon: "las la-lock"
     title: "Venta de jaulas y accesorios"
     content: "Ofrecemos jaulas de todos los tamaños y accesorios de viaje como platos y botellas para agua. Nuestras jaulas cumplen completamente con las regulaciones de las aerolíneas."
