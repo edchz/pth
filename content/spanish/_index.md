@@ -31,7 +31,7 @@ features:
   enable: true
   subtitle: "Transporte internacional de máscotas, fácil!"
   title: "Nuestros<br>Servicios"
-  description: "Haremos lo que sea para estar juntos otra vez. Es una promesa!"
+  description: "Haremos lo que sea para estar juntos otra vez. ¡Es una promesa!"
   features_blocks:
   - icon: "las la-globe-americas"
     title: "Exportación"
