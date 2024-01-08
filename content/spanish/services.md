@@ -26,7 +26,7 @@ servicies:
 
   - subtitle: "What we value 1" 
     title: "Recogida y entrega &#128062;"
-    description: "Recogeremos a tu mascota en tu casa, hotel, etc., y la entregaremos a la aerolínea. Después de que ha llegado a su destino, la llevaremos a casa una vez completados los procedimientos de importación. No te preocupes!, entendemos que todas las mascotas desde los perros hasta los gatos tienen un fuerte vínculo familiar, por lo que tratamos a cada una como si fuera nuestra."
+    description: "Recogeremos a tu mascota en tu casa, hotel, etc., y la entregaremos a la aerolínea. Después de que ha llegado a su destino, la llevaremos a casa una vez completados los procedimientos de importación. ¡No te preocupes!, entendemos que todas las mascotas desde los perros hasta los gatos tienen un fuerte vínculo familiar, por lo que tratamos a cada una como si fuera nuestra."
     image: "images/pick-and-deliver.png"
   
   - subtitle: "What we value 2" 

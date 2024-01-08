@@ -47,7 +47,7 @@ features:
     content: "Ofrecemos todos los servicios veterinarios requeridos por el país de destino: microchips, desparasitación y vacunación, pruebas de sangre y certificados veterinarios."
   - icon: "las la-lock"
     title: "Venta de jaulas y accesorios"
-    content: "Ofrecemos jaulas de todos los tamaños y accesorios de viaje como platos y botellas para agua. Nuestras jaulas cumplen completamente con las regulaciones de las aerolíneas."
+    content: "Contamos con jaulas de todos los tamaños y accesorios de viaje como platos y botellas para agua. Nuestras jaulas cumplen completamente con las regulaciones de las aerolíneas."
   - icon: "las la-h-square"
     title: "Hotel de mascotas"
     content: "Si lo necesitas, cuidaremos a tu mascota antes del viaje o después de arribar al país, ofrecemos un amplio y seguro servicio de hospedaje con todos los cuidados que tu mascota necesita."
