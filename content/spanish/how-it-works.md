@@ -25,7 +25,7 @@ how_it_works:
   enable: true
   block:
   - subtitle: "Quiénes somos?"
-    title: "Que bueno conocerte! &#128075;"
+    title: "¡Que bueno conocerte! &#128075;"
     description: "Somos Pets to Home, una empresa líder en transporte internacional de mascotas, certificados en Live Animals Regulations de la IATA y miembro de la International Pet and Animal Transportation Association. Nos especializamos en brindar un servicio personalizado y de alta calidad para que tu mascota viaje segura y cómodamente, sin importar el destino."
     image: "images/good_doggy.png"
 
