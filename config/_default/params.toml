@@ -4,7 +4,7 @@ favicon = "images/favicon.png"
 # logo
 logo = "images/logo400.webp"
 # use `x` with logo_width, example: "100x"
-logo_width = "90x"
+logo_width = "220x"
 # logo text will only show when logo is missing.
 logo_text = "Pets to Home"
 # image gallery shortcode
