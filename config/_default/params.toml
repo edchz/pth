@@ -27,8 +27,8 @@ mainSections= ["blog"]
 
 # contact information
 [contact_info]
-address = "Local #65 Mall Outlet Internacional"
-phone = ["(506) 8859 8455", "(506) 6065 9239", "(506) 4082 3331"]
+address = "Local #65 Centro de Comercio Internacional, Alajuela"
+phone = ["(506) 8859 8455", "(506) 6294 4788", "(506) 4082 3331"]
 email = ["info@petstohomecr.com"]
 
 # imaging processing
