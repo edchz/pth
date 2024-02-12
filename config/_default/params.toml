@@ -11,7 +11,7 @@ logo_text = "Pets to Home"
 image_gallery = true
 
 # footer information
-footer_info = "Pets to Home es una marca de Aselogística, S.A.<br>Alajuela, Costa Rica"
+footer_info = "Pets to Home es una marca de Aselogística, Sociedad Anónima<br>Alajuela, Costa Rica"
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
