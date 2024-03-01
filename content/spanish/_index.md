@@ -55,11 +55,11 @@ features:
 
 # intro_video
 intro_video:   
-  enable: false
-  subtitle: "Short Intro Video"
-  title: "Built exclusively for you"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+  enable: true
+  subtitle: 
+  title: "Como funciona"
+  description: "Transporte internacional de mascotas, <br> así funciona:"
+  video_url: "https://player.vimeo.com/video/728447827?h=138cbbf8ae"
   video_thumbnail: "images/video-popup.jpg"
 
 

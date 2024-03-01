@@ -55,11 +55,11 @@ features:
 
 # intro_video
 intro_video:   
-  enable: false
-  subtitle: "Short Intro Video"
-  title: "Built exclusively for you"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+  enable: true
+  subtitle: 
+  title: "How it works"
+  description: "International pet relocation made easy. <br> Here's how:"
+  video_url: "https://player.vimeo.com/video/728654434?h=43e7129b79&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
   video_thumbnail: "images/video-popup.jpg"
 
 
