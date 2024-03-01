@@ -107,3 +107,8 @@ link = "https://es-la.facebook.com/petstohomecr/"
 title = "PTH Instagram"
 icon = "lab la-instagram" # https://icons8.com/line-awesome
 link = "https://www.instagram.com/petstohomecr/"
+
+[[social]]
+title = "TikTok"
+icon = "lab la-tumblr" # https://icons8.com/line-awesome
+link = "https://www.tiktok.com/@petstohomecr?_t=8kJsCDF1Bu1&_r=1"
