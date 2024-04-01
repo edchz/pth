@@ -274,4 +274,7 @@
   translation: https://www.petstohomecr.com/es/gracias/ 
 
 - id: quote_url
-  translation: /es/cotizacion/           
+  translation: /es/cotizacion/  
+
+- id: customer_service
+  translation: Servicio al cliente

@@ -274,4 +274,7 @@
   translation: https://www.petstohomecr.com/en/thank-you/
 
 - id: quote_url
-  translation: /en/get-a-quote/      
+  translation: /en/get-a-quote/
+
+- id: customer_service
+  translation: Customer Service     
