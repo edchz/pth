@@ -26,17 +26,17 @@ how_it_works:
   block:
   - subtitle: "Quiénes somos?"
     title: "¡Que bueno conocerte! &#128075;"
-    description: "Somos Pets to Home, una empresa líder en transporte internacional de mascotas, certificados en Live Animals Regulations de la IATA y miembro de la International Pet and Animal Transportation Association. Nos especializamos en brindar un servicio personalizado y de alta calidad para que tu mascota viaje segura y cómodamente, sin importar el destino."
-    image: "images/good_doggy.png"
+    description: "Gracias por considerar Pets to Home para el transporte internacional de tu mascota. Como dueños de mascotas, lo entendemos: quieres lo mejor para tu peludo amigo. Por eso estamos orgullosos de ofrecer un transporte cómodo, seguro y sin estrés. Estamos certificados en Live Animals Regulations de la IATA y somos miembros de la International Pet and Animal Transportation Association, por lo que tu mascota estará en buenas manos. Olvídate de las preocupaciones, ¡nosotros nos encargamos de todo!"
+    image: "images/meetyou.png"
 
   - subtitle: "Lo que hacemos"
     title: "¡Podemos darte una pata! &#128062;"
-    description: "Ofrecemos una amplia variedad de servicios para que el viaje de tu mascota sea una experiencia agradable, segura y sin estrés. Desde la recogida en su hogar hasta la entrega en su nuevo destino, ¡nos encargamos de todo! Nuestro equipo de profesionales está altamente capacitado y comprometido con su bienestar."
+    description: "¡Relájate, nosotros nos encargamos! Desde la cómoda recogida en tu hogar hasta la entrega en su nuevo destino, todo estará bajo nuestro cuidado. Nuestro equipo de profesionales, altamente capacitado y comprometido, te brindará un servicio personalizado y de alta calidad. ¡Solicita una cotización gratuita hoy mismo y disfruta de una experiencia sin complicaciones!"
     image: "images/day67-dog.png"
 
   - subtitle: "Lo que valoramos" 
     title: "El significado del &#128150;"
     description: "En Pets to Home amamos lo que hacemos y como también tenemos mascotas sabemos y entendemos que son parte de la familia. Nuestra pasión y compromiso aseguran que cada una reciba un servicio de calidad, confiable y seguro desde y hacia cualquier parte del mundo."
-    image: "images/friends.png"
+    image: "images/lovehug.webp"
 
 ---
