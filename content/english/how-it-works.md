@@ -24,7 +24,7 @@ how_it_works:
   block:
   - subtitle: "Who are we?"
     title: "Nice to meet you! &#128075;"
-    description: "Thanks for considering Pets to Home for your pet's international transportation. As pet owners, we get it - you want the best for your furry friend. That's why we're proud to offer comfy, safe, stress-free transport. We're certified under IATA's Live Animals Regulations and a member of the International Pet and Animal Transportation Association, so you can rest assured your pet is in good hands. We take care of everything, so you can relax and focus on your new adventure."
+    description: "Thanks for considering Pets to Home for your pet's international transportation. As pet owners, we get it - you want the best for your furry friend. That's why we're proud to offer comfy, safe, stress-free transport. We're certified under IATA's Live Animals Regulations and a member of the International Pet and Animal Transportation Association, so you can rest assured your pet is in good hands. We take care of everything, so you can relax and focus on your new adventure!"
     image: "images/meetyou.png"
 
   - subtitle: "What we do"
