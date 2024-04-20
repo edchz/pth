@@ -36,7 +36,7 @@ how_it_works:
 
   - subtitle: "Lo que valoramos" 
     title: "El significado del &#128150;"
-    description: "En Pets to Home amamos lo que hacemos y como también tenemos mascotas sabemos y entendemos que son parte de la familia. Nuestra pasión y compromiso aseguran que cada una reciba un servicio de calidad, confiable y seguro desde y hacia cualquier parte del mundo."
+    description: "Al igual que tú, amamos nuestras mascotas y entendemos cuán importante son para ti. Por eso, nos apasiona ofrecer un servicio de calidad, confiable y seguro para tu fiel compañero, ¡sin importar a dónde vaya en el mundo!"
     image: "images/lovehug.webp"
 
 ---
