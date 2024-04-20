@@ -25,7 +25,7 @@ how_it_works:
   - subtitle: "Who are we?"
     title: "Nice to meet you! &#128075;"
     description: "Thank you for considering Pets to Home for your pet's international transportation needs. As a pet owner, we know that you want nothing but the best for your furry friend. That's why we take great pride in our commitment to providing the most comfortable, safest, and stress-free transportation experience for your pets. We are a certified member of the International Pet and Animal Transportation Association and also certified by IATA's Live Animals Regulations, so you can rest assured that your pet is in good hands."
-    image: "images/good_doggy.png"
+    image: "images/meetyou.png"
 
   - subtitle: "What we do"
     title: "We can lend you a helping paw! &#128062;"
@@ -34,7 +34,7 @@ how_it_works:
 
   - subtitle: "What we value" 
     title: "The meaning of &#128150;"
-    description: "At Pets to Home, we are dedicated to our work and share your love for your furry family members. We provide dependable and safe transportation services to and from Costa Rica, knowing that your pets are precious to you."
-    image: "images/friends.png"
+    description: "As fellow pet lovers, we understand how important your furry friend is to you, which is why we offer a reliable, high-quality, and secure service for your pet, no matter where they travel in the world!"
+    image: "images/lovehug.webp"
 
 ---
