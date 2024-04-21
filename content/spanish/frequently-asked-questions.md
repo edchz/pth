@@ -6,7 +6,7 @@ draft: false
 
 ---
 
-{{< image src="images/faqdog.webp" caption="" alt="alter-text" height="" width="" position="" command="fill" option="q100" class="img-fluid rounded" title="image title" webp="true" style="text-align: center" >}}
+{{< image src="images/faqdog.webp" caption="" alt="a dog in the airport" height="" width="" position="center" command="fill" option="q100" class="img-fluid rounded" title="A dog in the airport" webp="true" style="text-align: center" >}}
 
 <hr>
 
@@ -18,7 +18,7 @@ draft: false
   * The cost of relocating your furry friend to another country can vary significantly depending on several factors. These include the size of your pet as bigger pets typically require larger crates, which impacts both travel and crate costs. Moreover, the regulatory requirements for importing pets can vary between the origin and destination countries, impacting the necessary paperwork and potential quarantine obligations. Additionally, different countries have varying import fees for pets, which should be factored into your budget. Lastly, it's essential to account for any special medical needs or dietary considerations your pet may require during the relocation process.
  {{< /collapse >}}
 
-  {{< collapse "What paperwork and vaccinations are required for my pet to travel internationally?" >}}
+  {{< collapse "What paperwork and vaccinations are needed for international pet travel?" >}}
   * When it comes to traveling with your pet internationally, it is important to understand that each country has different requirements. However, some of the most common components include:
 
     - International health certificate: This document must be completed and certified by an accredited veterinarian after examining your pet and determining that it is free of infectious diseases. It is generally valid for one trip and within a specific time frame from the date of issue.
