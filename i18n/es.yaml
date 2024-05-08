@@ -278,3 +278,6 @@
 
 - id: customer_service
   translation: Servicio al cliente
+
+- id: travel_date
+  translation: Fecha aproximada de viaje  
