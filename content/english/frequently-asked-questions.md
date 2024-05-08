@@ -1,5 +1,5 @@
 ---
-title: "Preguntas frecuentes"
+title: "Exploring FAQs for Smooth Pet Moves Across The World"
 date: "2021-07-16"
 layout: "Frequently Asked Questions"
 draft: false

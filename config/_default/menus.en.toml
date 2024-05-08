@@ -17,8 +17,8 @@ url = "services/"
 weight = 3
 
 [[main]]
-name = "How It Works"
-url = "how-it-works/"
+name = "FAQ"
+url = "frequently-asked-questions/"
 weight = 4
 
 [[main]]
