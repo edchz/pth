@@ -26,7 +26,7 @@
 {{ end }}
 
 <img loading="prelaod" decoding="async" class="img-fluid" {{if ne $logoExt `.svg`}}
-  width="{{$logoWidth | default $logo.Width}}" height="{{$logo.Height}}" {{end}} src="{{.Scratch.Get `logo`}}"
+  width="{{$logoWidth | default $logo.Width}}" {{end}} src="{{.Scratch.Get `logo`}}"
   alt="{{ site.Title }}" onerror="this.onerror=null;this.src='{{.Scratch.Get `logo_fallback`}}'">
 {{ end }}
 <!-- logo text -->
