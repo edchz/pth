@@ -2,9 +2,9 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logopthen.png"
+logo = "images/PTHlogof.png"
 # use `x` with logo_width, example: "100x"
-logo_width = "90x"
+logo_width = "220x"
 # logo text will only show when logo is missing.
 logo_text = "Pets to Home"
 # image gallery shortcode
