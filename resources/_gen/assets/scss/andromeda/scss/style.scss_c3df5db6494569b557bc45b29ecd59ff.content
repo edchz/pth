@@ -779,7 +779,7 @@ header {
       height: 1.8rem; } }
   @media (max-width: 400px) {
     header .navbar-brand {
-      width: 100%;
+      width: 75%;
       height: 100%;
       margin: 0;
       margin-bottom: 0.625rem;
