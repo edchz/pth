@@ -81,14 +81,6 @@
                 <input class="form-control shadow-none rounded-field" id="Destination_city" name="Destination_city"
                   type="text" required>
               </div>
-              {{/*
-                <!--Comentado para no incluir-->
-              <div class="form-group">
-                <label for="message">{{i18n `your_message`}}</label>
-                <textarea class="form-control shadow-none rounded-field" id="message" name="Comment"
-                  rows="4"></textarea>
-              </div>
-              */}}
               <!--cierra depar-destination info-->
               <!--empieza pets info-->
               <fieldset repeater name="pets_information" repeater-limit="3">
@@ -165,6 +157,11 @@
                 </div>
               </div>
               <!--cierra crate info-->
+              <div class="form-group">
+                <label for="message">{{i18n `your_message`}}</label>
+                <textarea class="form-control shadow-none rounded-field" id="message" name="Comment"
+                  rows="4"></textarea>
+              </div>
             </div> <!--cierra text-primary bg-info?-->
           <button type="submit">{{i18n `submit`}}</button>
         </form>
