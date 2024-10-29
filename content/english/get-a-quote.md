@@ -1,6 +1,6 @@
 ---
 title: "Free Pet Relocation Quote | Estimate for Global Pet Transport"
-layout: "get-a-quote"
+layout: "get-a-quotation"
 keywords:
  - Free Pet Relocation Quote
  - Request Animal Transport Estimate

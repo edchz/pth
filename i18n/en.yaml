@@ -218,7 +218,7 @@
   translation: Departure state
 
 - id: Departure_city
-  translation: Departure city
+  translation: Departure city or airport
 
 - id: Destination_country
   translation: Destination country
@@ -227,7 +227,7 @@
   translation: Destination state
 
 - id: Destination_city
-  translation: Destination city
+  translation: Destination city or airport
 
 - id: Departure_placeholder
   translation: Where to pick your pet
@@ -280,4 +280,7 @@
   translation: Customer Service 
 
 - id: travel_date
-  translation: Approximate travel date    
+  translation: Approximate travel date  
+
+- id: submit
+  translation: Submit    

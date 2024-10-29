@@ -218,7 +218,7 @@
   translation: Provincia de origen
 
 - id: Departure_city
-  translation: Ciudad de origen
+  translation: Ciudad o aeropuerto de origen
 
 - id: Destination_country
   translation: País de destino
@@ -227,7 +227,7 @@
   translation: Provincia de destino
 
 - id: Destination_city
-  translation: Ciudad de destino
+  translation: Ciudad o aeropuerto de destino 
 
 - id: Departure_placeholder
   translation: Donde recogeremos a tu mascota
@@ -280,4 +280,7 @@
   translation: Servicio al cliente
 
 - id: travel_date
-  translation: Fecha aproximada de viaje  
+  translation: Fecha aproximada de viaje 
+
+- id: submit
+  translation: Enviar   

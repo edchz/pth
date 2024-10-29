@@ -1,0 +1,232 @@
+{{ define "main" }}
+
+{{ partial "components/page-header.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-5 col-md-8 text-center mb-lg-0" data-aos="fade-up">
+        <div class="pr-0 pr-lg-5">
+          {{ if fileExists (add `assets/` .Params.contact_image) }}
+          {{$img:= resources.Get .Params.contact_image }}
+          {{$img:= $img.Fit "300x450"}}
+          <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}"
+            src="{{$img.RelPermalink}}" alt="contact image"
+            onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          {{end}}
+        </div>
+      </div>
+      <div class="col-lg-5 col-md-10" data-aos="fade-up">
+        <div class="contact-form">
+          <form id="get-a-quotation-form" class="kf-form" redirect="{{.Params.redirect_url}}"
+            action="https://kwesforms.com/api/foreign/forms/go0kXp2FUCCF8P3eX4Se" method="POST"
+            lang="{{i18n `lang_to_translate`}}" kw-cloak no-reload>
+            <p id="form-status" class="form-status"></p>
+            <div class="text-primary bg-info">
+              <!--empieza personal info-->
+              <div class="form-group">
+                <label for="Your_name">{{i18n `Your_name`}}</label>
+                <input class="form-control shadow-none rounded-field" id="Your_name" name="Your_name" type="text"
+                  required>
+              </div>
+              <div class="form-group">
+                <label for="Your_email">{{i18n `Your_email`}}</label>
+                <input class="form-control shadow-none rounded-field" id="Your_email" name="Your_email" type="email"
+                  required>
+              </div>
+              <div class="form-group">
+                <label for="Your_phone">{{i18n `Your_phone`}}</label>
+                <input class="form-control shadow-none rounded-field" id="Your_phone" name="Your_phone" type="tel"
+                  required>
+              </div>
+              
+              <!--cierra personal info-->
+              <div class="form-group">
+                <label for="travel_date">{{i18n `travel_date`}}</label>
+                <div class="kw-datepicker-wrapper">
+                  <input class="form-control shadow-none rounded-field" type="datepicker" name="travel_date">
+                </div>
+              </div>
+              <!--empieza depar-destination info-->
+              <div class="form-group">
+                <label for="Departure_country">{{i18n `Departure_country`}}</label>
+                <input class="form-control shadow-none rounded-field" id="Departure_country" name="Departure_country"
+                  type="text" required>
+              </div>
+              {{/*
+              <div class="form-group">
+                <label for="Departure_state">{{i18n `Departure_state`}}</label>
+                <input class="form-control shadow-none rounded-field" id="Departure_state" name="Departure_state"
+                  type="text">
+              </div>
+              */}}
+              <label for="Departure_city">{{i18n `Departure_city`}}</label>
+              <input class="form-control shadow-none rounded-field" id="Departure_city" name="Departure_city"
+                type="text" required>
+              <div class="form-group">
+                <label for="Destination_country">{{i18n `Destination_country`}}</label>
+                <input class="form-control shadow-none rounded-field" id="Destination_country"
+                  name="Destination_country" type="text" required>
+              </div>
+              {{/*
+                <!--Comentado para no incluir-->
+               <div class="form-group">
+                <label for="Destination_state">{{i18n `Destination_state`}}</label>
+                <input class="form-control shadow-none rounded-field" id="Destination_state" name="Destination_state"
+                  type="text">
+              </div>
+              */}}
+              <div class="form-group">
+                <label for="Destination_city">{{i18n `Destination_city`}}</label>
+                <input class="form-control shadow-none rounded-field" id="Destination_city" name="Destination_city"
+                  type="text" required>
+              </div>
+              {{/*
+                <!--Comentado para no incluir-->
+              <div class="form-group">
+                <label for="message">{{i18n `your_message`}}</label>
+                <textarea class="form-control shadow-none rounded-field" id="message" name="Comment"
+                  rows="4"></textarea>
+              </div>
+              */}}
+              <!--cierra depar-destination info-->
+              <!--empieza pets info-->
+              <fieldset repeater name="pets_information" repeater-limit="3">
+                <div repeater-group>
+                  <div class="form-group">
+                    <label for="name">{{i18n `pets_name`}}</label>
+                    <input class="form-control shadow-none rounded-field" id="name" name="pets_name" type="text"
+                      placeholder="{{i18n `pets_name`}}" required>
+                  </div>
+                  <div class="form-group">
+                    <label for="pets_age">{{i18n `age`}}</label>
+                    <input class="form-control shadow-none rounded-field" id="pets_age" name="age" type="number"
+                      placeholder="{{i18n `age_placeholder`}}" step="0.01" min="0" required>
+                  </div>
+                  <p style="color:rgb(86, 84, 84); font-weight: bold;">{{i18n `age_msg`}}:</p>
+                  <fieldset data-kw-group rules="required" style="color:black; text-align: center;">
+                    <input type="radio" name="age_unit" value="{{i18n `months`}}"> "{{i18n `months`}}"
+                    <input type="radio" name="age_unit" value="{{i18n `years`}}"> "{{i18n `years`}}"
+                  </fieldset>
+                  <div class="form-group">
+                    <label for="species">{{i18n `species`}}</label>
+                    <input class="form-control shadow-none rounded-field" id="species" name="species" type="text"
+                      placeholder="{{i18n `species_placeholder`}}" required>
+                  </div>
+                  <div class="form-group">
+                    <label for="breed">{{i18n `breed`}}</label>
+                    <input class="form-control shadow-none rounded-field" id="breed" name="breed" type="text"
+                      placeholder="{{i18n `breed_placeholder`}}" required>
+                  </div>
+                  <div class="form-group">
+                    <label for="weight">{{i18n `weight`}}</label>
+                    <input class="form-control shadow-none rounded-field" id="weight" name="weight" type="number"
+                      placeholder="{{i18n `weight_placeholder`}}" step="0.01" min="0" required>
+                  </div>
+                  <div class="form-group">
+                    <label for="pet_length">{{i18n `pet_length`}}</label>
+                    <input class="form-control shadow-none rounded-field" id="pet_length" name="pet_length"
+                      placeholder="{{i18n `length_placeholder`}}" type="number" step="0.01" min="0" required>
+                  </div>
+                  <div class="form-group">
+                    <label for="pet_height">{{i18n `pet_height`}}</label>
+                    <input class="form-control shadow-none rounded-field" id="pet_height" name="pet_height"
+                      placeholder="{{i18n `height_placeholder`}}" type="number" step="0.01" min="0" required>
+                  </div>
+                  <p style="color:rgb(86, 84, 84); font-weight: bold;">{{i18n `add_msg`}}:</p>
+                </div> <!--cierra repeater-group?-->
+              </fieldset>
+              <!--cierra pets info-->
+
+
+              <!--empieza crate info-->
+              <div class="form-group">
+                <label for="crate">{{i18n `crate`}}</label>
+                <select class="shadow-none rounded-field" name="pet_crate" id="crate_list">
+                  <option value="No.">No.</option>
+                  <option value="{{i18n `affirmative`}}">{{i18n `affirmative`}}</option>
+                </select>
+              </div>
+              <div kw-show="fields.pet_crate === '{{i18n `affirmative`}}'">
+                <div class="form-group">
+                  <label for="crate_length">{{i18n `crate_lenght`}}</label>
+                  <input class="form-control shadow-none rounded-field" id="crate_length" name="crate_length"
+                    type="number" placeholder="{{i18n `height_placeholder`}}" step="0.01" min="0">
+                </div>
+                <div class="form-group">
+                  <label for="crate_height">{{i18n `crate_height`}}</label>
+                  <input class="form-control shadow-none rounded-field" id="crate_height" name="crate_height"
+                    type="number" placeholder="{{i18n `height_placeholder`}}" step="0.01" min="0">
+                </div>
+                <div class="form-group">
+                  <label for="crate_width">{{i18n `crate_width`}}</label>
+                  <input class="form-control shadow-none rounded-field" id="crate_width" name="crate_width"
+                    type="number" placeholder="{{i18n `height_placeholder`}}" step="0.01" min="0">
+                </div>
+              </div>
+              <!--cierra crate info-->
+            </div> <!--cierra text-primary bg-info?-->
+          <button type="submit">{{i18n `submit`}}</button>
+        </form>
+      </div>
+    </div>
+        <!--cierra form-->
+        <div class="section pb-0">
+          <div class="row justify-content-center">
+            <div class="col-12">
+              <div class="section-title text-center" data-aos="fade-up">
+                <p class="text-uppercase">{{i18n `contact_us`}}</p>
+                <h2 class="title">{{i18n `get_in_touch`}}</h2>
+              </div>
+            </div>
+
+            {{with site.Params.contact_info.phone}}
+            <div class="col-xl-3 col-lg-4 col-md-6 contact-widget" data-aos="fade-up">
+              <div class="block text-center">
+                <h3 class="mb-4">{{i18n `phone`}}</h3>
+                <ul class="list-unstyled">
+                  {{range .}}
+                  {{if .}}
+                  <li><a href="tel:{{.}}"><i class="las la-phone"></i>{{.}}</a></li>
+                  {{end}}
+                  {{end}}
+                </ul>
+              </div>
+            </div>
+            {{end}}
+
+            {{with site.Params.contact_info.email}}
+            <div class="col-xl-3 col-lg-4 col-md-6 contact-widget" data-aos="fade-up" data-aos-delay="100">
+              <div class="block text-center">
+                <h3 class="mb-4">{{i18n `email`}}</h3>
+                <ul class="list-unstyled">
+                  {{range .}}
+                  {{if .}}
+                  <li><a href="mailto:{{.}}"><i class="las la-envelope-open-text"></i>{{.}}</a></li>
+                  {{end}}
+                  {{end}}
+                </ul>
+              </div>
+            </div>
+            {{end}}
+
+            {{with site.Params.social}}
+            <div class="col-xl-3 col-lg-4 col-md-12 contact-widget" data-aos="fade-up" data-aos-delay="200">
+              <div class="block text-center">
+                <h3 class="mb-4">{{i18n `social_media`}}</h3>
+                <ul class="list-unstyled">
+                  {{range .}}
+                  {{if .}}
+                  <li><a href="{{.link}}"><i class="{{.icon}}"></i>{{.title}}</a></li>
+                  {{end}}
+                  {{end}}
+                </ul>
+              </div>
+            </div>
+            {{end}}
+          </div>
+        </div>
+      </div>
+</section>
+
+{{ end }}
