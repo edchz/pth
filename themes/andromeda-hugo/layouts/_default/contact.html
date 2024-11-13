@@ -27,12 +27,16 @@
               <input class="form-control shadow-none" id="name" name= "full_name" type="text" placeholder="{{i18n `full_name`}}" required>
             </div>
             <div class="form-group">
+              <label for="Your_phone">{{i18n `Your_phone`}}</label>
+              <input class="form-control shadow-none" id="Your_phone" name="Your_phone" type="tel" placeholder="{{i18n `Your_phone`}}" required>
+            </div>
+            <div class="form-group">
               <label for="email">{{i18n `email`}}</label>
               <input class="form-control shadow-none" id="email" name="email" type="email" placeholder="{{i18n `email`}}" required>
             </div>
             <div class="form-group">
               <label for="message">{{i18n `your_message`}}</label>
-              <textarea class="form-control shadow-none" id="message" name="Comment" rows="4" required></textarea>
+              <textarea class="form-control shadow-none" id="message" name="Comment" rows="4" placeholder="{{i18n `your_message`}}" required></textarea>
             </div>
 
             <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Send Message">{{i18n `send_message`}}</button>
